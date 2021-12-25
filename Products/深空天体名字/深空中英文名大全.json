@@ -1,0 +1,2574 @@
+{
+    "A6670": {
+        "钻戒星云": "Diamond Ring Nebula"
+    },
+    "A6679": {
+        "宇宙六号星云": "Cosmic Six Nebula"
+    },
+    "ACO1060": {
+        "长蛇座1": "Hydra I",
+        "长蛇座星系团": "Hydra Cluster"
+    },
+    "ACO1367": {
+        "狮子座星系团": "Leo Cluster"
+    },
+    "ACO1377": {
+        "大熊座1星系群": "Ursa Major I"
+    },
+    "ACO151": {
+        "哈芬A星系群": "Haufen A"
+    },
+    "ACO1656": {
+        "后发座星系团": "Coma Cluster"
+    },
+    "ACO1930": {
+        "牧夫座星系团": "Bootes Cluster"
+    },
+    "ACO194": {
+        "鲸鱼座星系团": "Cetus Cluster"
+    },
+    "ACO2065": {
+        "北冕座星系团": "Corona Borealis Cluster"
+    },
+    "ACO2151": {
+        "武仙座星系团": "Hercules Cluster"
+    },
+    "ACO2744": {
+        "潘多拉星系团": "Pandora’s Cluster"
+    },
+    "ACO3526": {
+        "半人马座星系团": "Centaurus Cluster"
+    },
+    "ACO3558": {
+        "夏普利8星系团": "Shapley 8 Cluster"
+    },
+    "ACO3627": {
+        "巨引源": "Great Attractor",
+        "矩尺座星系团": "Norma Cluster"
+    },
+    "ACO426": {
+        "英仙座星系团": "Perseus Cluster"
+    },
+    "ACO520": {
+        "火车残骸星系团": "Train Wreck Cluster"
+    },
+    "ACO780": {
+        "长蛇座A": "Hydra A"
+    },
+    "ACOS373": {
+        "天炉座星系团": "Fornax Cluster"
+    },
+    "ACOS636": {
+        "唧筒座星系团": "Antlia Cluster"
+    },
+    "ACOS737": {
+        "NGC1399星系群": "NGC 1399 Group",
+        "天炉座星系群": "Fornax Group"
+    },
+    "ARP133": {
+        "闵可夫斯基天体": "Minkowski's Object"
+    },
+    "B142": {
+        "E星云": "E Nebula",
+        "三穴星云": "Triple Cave Nebula",
+        "巴纳德E星云": "Barnard's E Nebula",
+        "巴纳德的E星云": "Barnard's E Nebula"
+    },
+    "B143": {
+        "E星云": "E Nebula",
+        "三穴星云": "Triple Cave Nebula",
+        "巴纳德E星云": "Barnard's E Nebula",
+        "巴纳德的E星云": "Barnard's E Nebula"
+    },
+    "B144": {
+        "鱼碟暗星云": "Fish on the platter nebula"
+    },
+    "B168": {
+        "茧星云": "Cocoon Nebula"
+    },
+    "B22": {
+        "金牛座暗星云": "Taurus Dark Cloud Nebula"
+    },
+    "B228": {
+        "黑狼星云": "Dark Wolf Nebula"
+    },
+    "B33": {
+        "马头星云": "Horsehead Nebula"
+    },
+    "B59": {
+        "烟斗星云(杆)": "Pipe (stem)"
+    },
+    "B65": {
+        "烟斗星云(杆)": "Pipe (stem)"
+    },
+    "B66": {
+        "烟斗星云(杆)": "Pipe (stem)"
+    },
+    "B67": {
+        "烟斗星云(杆)": "Pipe (stem)",
+        "管星云": "Pipe Nebula"
+    },
+    "B68": {
+        "墨汁星云": "Ink Spot Nebula"
+    },
+    "B72": {
+        "S星云": "The S Nebula",
+        "蛇星云": "Snake Nebula"
+    },
+    "B78": {
+        "烟斗星云(斗)": "Pipe (bowl)",
+        "管星云": "Pipe Nebula"
+    },
+    "B86": {
+        "墨汁星云": "Ink Spot Nebula"
+    },
+    "B87": {
+        "鹦鹉头星云": "Parrot's Head Nebula"
+    },
+    "B92": {
+        "黑洞星云": "Black Hole Nebula"
+    },
+    "C41": {
+        "毕星团": "Hyades"
+    },
+    "C99": {
+        "煤袋星云": "Coalsack Nebula"
+    },
+    "CED19O": {
+        "昴宿七星云": "Atlas Nebula"
+    },
+    "CED211": {
+        "宝瓶座R星云": "R Aqr Nebula"
+    },
+    "CED32C": {
+        "伯纳姆星云": "Burnham's Nebula",
+        "金牛座T星云": "T Tauri Nebula"
+    },
+    "CED55R": {
+        "猎户座环状星云": "Orion Loop Nebula"
+    },
+    "CR135": {
+        "弧矢九星团": "π Pup Cluster"
+    },
+    "CR140": {
+        "狗尾星团": "Tuft in the Tail of the Dog Cluster"
+    },
+    "CR205": {
+        "马卡良18星团": "Markarian 18 Cluster"
+    },
+    "CR233": {
+        "海山二星团": "η Car Cluster"
+    },
+    "CR285": {
+        "大熊座星团": "Ursa Major Cluster"
+    },
+    "CR302": {
+        "心宿二星团": "Antares Cluster"
+    },
+    "CR399": {
+        "布洛契星团": "Brocchi's Cluster",
+        "苏菲星云": "Al-Sufi's Nebula",
+        "苏菲星团": "Al Sufi's Cluster",
+        "蜗牛星团": "The Snail",
+        "衣架星团": "Coathanger"
+    },
+    "CR463": {
+        "女王镜像": "The Queen's Reflection",
+        "水怪星团": "Loch Ness Moster Cluster"
+    },
+    "CR69": {
+        "猎户座星团": "Orion Cluster",
+        "玛格丽特之镜星团": "Aunt Margaret's Mirror",
+        "觜宿一星团": "λ Ori Cluster"
+    },
+    "CR70": {
+        "猎户座腰带星团": "Orion Belt Cluster",
+        "蛇形柱星团": "Serpentine Column"
+    },
+    "DWB111": {
+        "螺旋桨星云": "Propeller Nebula"
+    },
+    "DWB26": {
+        "玫瑰星云": "Rosette Nebula"
+    },
+    "DWB50": {
+        "旋镖星云": "Boomerang Nebula"
+    },
+    "DWB63": {
+        "天津一星云": "γ Cyg Nebula"
+    },
+    "DWB64": {
+        "倒马蹄星云": "Inverted Horseshoe Nebula"
+    },
+    "ESO118-31": {
+        "网罟座星团": "Reticulum Cluster",
+        "网罟座矮星系": "Reticulum Dwarf Galaxy",
+        "赛尔斯克星团": "Sersic Cluster"
+    },
+    "ESO120-8": {
+        "E2星团": "E2 Cluster"
+    },
+    "ESO129-25": {
+        "帕多瓦2": "Padova 2"
+    },
+    "ESO138-29": {
+        "神圣蘑菇星系": "Sacred Mushroom"
+    },
+    "ESO210-6A": {
+        "博科情人星云": "Bok's Valentine Nebula",
+        "博科的情人星云": "Bok's Valentine Nebula"
+    },
+    "ESO252-18A": {
+        "绘架座A": "Pictor A"
+    },
+    "ESO277-12": {
+        "天坛座星团": "Ara Cluster"
+    },
+    "ESO333-16": {
+        "托南钦特拉2球状星团": "Tonantzintla 2"
+    },
+    "ESO37-1": {
+        "E3星团": "E3 Cluster"
+    },
+    "ESO57-76": {
+        "霍奇11": "Hodge 11"
+    },
+    "ESO600-11": {
+        "摩羯座矮星系": "Capricorn Dwarf Galaxy"
+    },
+    "ESO86-9": {
+        "霍奇4": "Hodge 4"
+    },
+    "IC10": {
+        "星爆星系": "Starburst Galaxy"
+    },
+    "IC1318": {
+        "天津一星云": "γ Cyg Nebula"
+    },
+    "IC1365": {
+        "ZW II 108星系群": "ZW II 108 Group"
+    },
+    "IC1396": {
+        "象鼻星云": "Elephant's Trunk Nebula",
+        "雾中三叶草星团": "The Misty Clover Cluster"
+    },
+    "IC1795": {
+        "鱼头星云": "Fish Head Nebula"
+    },
+    "IC1805": {
+        "AFGL 333星云": "AFGL 333 Cloud",
+        "奔狗星云": "The Running Dog Nebula",
+        "心脏星云": "Heart Nebula",
+        "情人星云": "Valentine Nebula"
+    },
+    "IC2118": {
+        "女巫头星云": "Witch Head Nebula"
+    },
+    "IC2199": {
+        "IC 2199 星系群": "IC 2199 group"
+    },
+    "IC2220": {
+        "托比壶星云": "Toby Jug Nebula",
+        "蝴蝶星云": "Butterfly Nebula"
+    },
+    "IC2391": {
+        "船帆座ο星团": "ο Vel Cluster"
+    },
+    "IC2431": {
+        "布朗宁星系": "Browning Galaxy"
+    },
+    "IC2488": {
+        "珍珠串星团": "Strings of Pearl Cluster",
+        "长裙星团": "Hoopskirt Cluster"
+    },
+    "IC2574": {
+        "柯丁顿星云": "Coddington's Nebula"
+    },
+    "IC2602": {
+        "南天七姐妹星团": "Southern Pleiades",
+        "南船三星团": "θ Car Cluster"
+    },
+    "IC2714": {
+        "利普-托恩星团": "The Rip-Torn Cluster"
+    },
+    "IC2944": {
+        "奔鸡星云": "Running Chicken Nebula"
+    },
+    "IC2948": {
+        "海山五星云": "λ Cen Nebula",
+        "萨克雷球": "Thackeray's Globules",
+        "萨克雷的球": "Thackeray's Globules"
+    },
+    "IC342": {
+        "马费伊1星系群": "Maffei 1 Group"
+    },
+    "IC348": {
+        "卷舌五星云": "ο Per Cloud",
+        "金里奇1": "Gingrich 1"
+    },
+    "IC349": {
+        "巴纳德昴宿五星云": "Barnard's Merope Nebula"
+    },
+    "IC3568": {
+        "柠檬切片星云": "Sliced Lime Nebula",
+        "柠檬片星云": "Lemon slice Nebula",
+        "爱斯基摩婴儿星云": "Baby Eskimo Nebula",
+        "理论家星云": "Theoretician's Nebula"
+    },
+    "IC405": {
+        "火焰之星星云": "Flaming Star Nebula",
+        "舍贝勒火焰之星": "Schaeberle's Flaming Star",
+        "舍贝勒的火焰之星": "Schaeberle's Flaming Star"
+    },
+    "IC410": {
+        "小蝌蚪星云": "The Tadpoles"
+    },
+    "IC417": {
+        "蜘蛛星云": "Spider Nebula"
+    },
+    "IC418": {
+        "万花尺星云": "Spirograph Nebula",
+        "彩色隐形眼镜星云": "Colored Contacts Nebula",
+        "覆盆子星云": "Raspberry Nebula"
+    },
+    "IC4321": {
+        "贝壳星系": "Seashell Galaxy"
+    },
+    "IC4406": {
+        "视网膜星云": "Retina Nebula"
+    },
+    "IC443": {
+        "双子座A": "Gemini A",
+        "水母星云": "Jellyfish Nebula"
+    },
+    "IC4592": {
+        "蓝马头星云": "Blue Horsehead Nebula"
+    },
+    "IC4593": {
+        "白眼豌豆星云": "White-eyed Pea Nebula"
+    },
+    "IC4604": {
+        "心宿增四星云": "ρ Oph Nebula"
+    },
+    "IC4606": {
+        "心宿二反射星云": "Antares Nebula"
+    },
+    "IC4628": {
+        "斑节虾星云": "Prawn Nebula"
+    },
+    "IC4665": {
+        "夏季蜂巢星团": "Summer Beehive Cluster",
+        "海神三叉戟星团": "Poseidon's Trident Cluster",
+        "黑燕尾蝶星团": "Black Swallowtail Butterfly Cluster"
+    },
+    "IC4756": {
+        "双胞胎星团": "Tweedledum Cluster",
+        "格拉夫星团": "Graff's Cluster",
+        "秘密花园星团": "Secret Garden Cluster"
+    },
+    "IC4946": {
+        "夏普利-艾姆斯5": "Shapley-Ames 5"
+    },
+    "IC4996": {
+        "天鹅座P星团": "P Cyg Cluster"
+    },
+    "IC5067": {
+        "鹈鹕星云": "Pelican Nebula"
+    },
+    "IC5070": {
+        "鹈鹕星云": "Pelican Nebula"
+    },
+    "IC5146": {
+        "茧星云": "Cocoon Nebula"
+    },
+    "IC5148": {
+        "备胎星云": "Spare Tyre Nebula"
+    },
+    "IC5173": {
+        "南积分号星系": "Southern Integral Sign"
+    },
+    "IC59": {
+        "策星云": "γ Cas Nebula"
+    },
+    "IC63": {
+        "策星云": "γ Cas Nebula"
+    },
+    "IC708": {
+        "蝴蝶犬星系": "Papillon"
+    },
+    "IRAS09371+1212": {
+        "霜狮星云": "Frosty Leo Nebula"
+    },
+    "IRAS18059-3211": {
+        "戈麦斯汉堡": "Gomez's Hamburger"
+    },
+    "IRAS19343+2926": {
+        "脚印星云": "Footprint Nebula"
+    },
+    "LBN531": {
+        "洞穴星云": "Cave Nebula"
+    },
+    "LBN777": {
+        "幼鹰星云": "Baby Eagle Nebula",
+        "秃头星云": "Vulture Head Nebula"
+    },
+    "LBN953": {
+        "猎户座B": "Orion B"
+    },
+    "LDN1235": {
+        "黑鲨星云": "Dark Shark Nebula"
+    },
+    "LDN1382": {
+        "帕兹米诺星团": "Pazmino's Cluster"
+    },
+    "LDN1613": {
+        "圆锥星云": "Cone Nebula"
+    },
+    "LDN810": {
+        "煤矿工星云": "Coalman Nebula"
+    },
+    "LDN906": {
+        "北煤袋星云": "Northern Coalsack Nebula"
+    },
+    "LDN935": {
+        "墨西哥湾星云": "Gulf of Mexico Nebula"
+    },
+    "M24": {
+        "人马座恒星云": "Small Sagittarius Star Cloud",
+        "散点星云": "Delle Caustiche"
+    },
+    "M40": {
+        "温内克4": "Winnecke 4"
+    },
+    "M45": {
+        "七姐妹星团": "Seven Sisters",
+        "昴宿星团": "Subaru",
+        "昴星团": "Pleiades"
+    },
+    "M8": {
+        "沙漏区": "Hourglass Region",
+        "礁湖星云": "Lagoon Nebula"
+    },
+    "MEL111": {
+        "后发座星团": "Coma Berenices Cluster",
+        "蜘蛛网星团": "Cobweb Cluster",
+        "阿里阿德涅之发": "Ariadne's Hair",
+        "面纱星团": "Thisbe's Veil",
+        "飞女巫星团": "Flying Witch",
+        "黑巴特之发": "Black Bart's Hair"
+    },
+    "MEL186": {
+        "波尼亚托夫斯基公牛星团": "Poniatowski's Bull Cluster",
+        "波尼亚托夫斯基的公牛星团": "Poniatowski's Bull Cluster",
+        "波尼亚托夫斯基的金牛座星团": "Taurus Poniatovii Cluster",
+        "波尼亚托夫斯基金牛座星团": "Taurus Poniatovii Cluster"
+    },
+    "MEL20": {
+        "天船三星协": "α Per Association",
+        "天船三星团": "α Per Cluster",
+        "天船三移动星团": "α Per Moving Group",
+        "海盗小云星团": "Little Cloud of Pirates",
+        "海盗的小云星团": "Little Cloud of Pirates"
+    },
+    "MEL71": {
+        "威尔克星团": "Wilk's Cluster"
+    },
+    "Minkowski92": {
+        "闵可夫斯基的足迹": "Minkowski's Footprint",
+        "闵可夫斯基足迹": "Minkowski's Footprint"
+    },
+    "NGC1023": {
+        "仙人掌星系": "Perseus Lenticular Galaxy"
+    },
+    "NGC1039": {
+        "螺旋星团": "Spiral Cluster"
+    },
+    "NGC104": {
+        "杜鹃座47球状星团": "47 Tuc"
+    },
+    "NGC1049": {
+        "天炉座3": "Fornax 3",
+        "天炉座C3": "Fornax C3",
+        "天炉座H3": "Fornax H3",
+        "天炉座矮星系": "Fornax Dwarf Galaxy",
+        "天炉座矮星系球状星团3": "Fornax Dwarf Cluster 3"
+    },
+    "NGC1068": {
+        "鲸鱼座A": "Cetus A"
+    },
+    "NGC1232": {
+        "上帝之眼星系": "Eye of God Galaxy"
+    },
+    "NGC1245": {
+        "帕特里克海星星团": "Patrick Starfish Cluster"
+    },
+    "NGC1269": {
+        "雪领星系": "Snow Collar Galaxy"
+    },
+    "NGC1275": {
+        "英仙座A": "Perseus A"
+    },
+    "NGC128": {
+        "NGC 128星系群": "NGC 128 group"
+    },
+    "NGC1316": {
+        "天炉座A": "Fornax A"
+    },
+    "NGC1317": {
+        "天炉座B": "Fornax B"
+    },
+    "NGC1333": {
+        "幻影头饰星云": "Phantom Tiara",
+        "胚胎星云": "Embryo Nebula"
+    },
+    "NGC134": {
+        "大王乌贼星系": "Giant Squid Galaxy"
+    },
+    "NGC1342": {
+        "小蝎星团": "Little Scorpion Cluster",
+        "棘角鱼星团": "Sea Robin Cluster",
+        "黄貂鱼星团": "Stingray Cluster"
+    },
+    "NGC1350": {
+        "宇宙大眼睛星系": "The Colossal Cosmic Eye"
+    },
+    "NGC1360": {
+        "彗星行星状星云": "Comet Planetary Nebula",
+        "知更鸟蛋星云": "Robin's Egg Nebula"
+    },
+    "NGC1365": {
+        "大棒旋星系": "Great Barred Spiral Galaxy"
+    },
+    "NGC1407": {
+        "波江座A星系群": "Eridanus A Group"
+    },
+    "NGC1432": {
+        "昴宿四星云": "Maia Nebula"
+    },
+    "NGC1435": {
+        "坦普尔星云": "Tempel's Nebula",
+        "昴宿五星云": "Merope Nebula"
+    },
+    "NGC1491": {
+        "化石足迹星云": "Fossil Footprint Nebula"
+    },
+    "NGC1499": {
+        "加利福尼亚星云": "California Nebula",
+        "龙星云": "Dragon Nebula"
+    },
+    "NGC1501": {
+        "牡蛎星云": "Oyster Nebula",
+        "蓝牡蛎星云": "Blue Oyster Nebula",
+        "骆驼之眼星云": "Camel's Eye Nebula"
+    },
+    "NGC1502": {
+        "海盗旗星团": "Jolly Roger Cluster",
+        "金竖琴星团": "Golden Harp Cluster"
+    },
+    "NGC1514": {
+        "三色堇星云": "Pansy Nebula",
+        "水晶球星云": "Crystal Ball Nebula"
+    },
+    "NGC1528": {
+        "M&M双星团": "m & m Double Cluster"
+    },
+    "NGC1535": {
+        "埃及艳后之眼星云": "Cleopatra's Eye Nebula",
+        "天水母星云": "Celestial Jellyfish",
+        "海王星之魂星云": "Ghost of Neptune Nebula",
+        "爱斯基摩之妻星云": "Eskimo's Wife Nebula"
+    },
+    "NGC1545": {
+        "M&M双星团": "m & m Double Cluster",
+        "奔跑人星团": "Running Man Cluster",
+        "魔术五角星团": "Magic Pentagram Cluster"
+    },
+    "NGC1554": {
+        "斯特鲁维星云": "Struve's Nebula",
+        "斯特鲁维遗失星云": "Struve's Lost Nebula",
+        "欣德变光星云": "Hind's Variable Nebula"
+    },
+    "NGC1555": {
+        "欣德变光星云": "Hind's Variable Nebula",
+        "欣德星云": "Hind's Nebula"
+    },
+    "NGC1579": {
+        "北三裂星云": "Northern Trifid Nebula"
+    },
+    "NGC1595": {
+        "雕具座星系群": "Carafe Group"
+    },
+    "NGC1598": {
+        "雕具座星系群": "Carafe Group"
+    },
+    "NGC1647": {
+        "海盗之月星团": "Pirate Moon Cluster"
+    },
+    "NGC1664": {
+        "4-H 星团": "4-H cluster"
+    },
+    "NGC1788": {
+        "宇宙蝙蝠星云": "Cosmic Bat Nebula",
+        "狐狸脸星云": "Foxface Nebula"
+    },
+    "NGC1807": {
+        "贫双星团": "Poor Man's Double Cluster"
+    },
+    "NGC1817": {
+        "贫双星团": "Poor Man's Double Cluster"
+    },
+    "NGC188": {
+        "近极星团": "Polarissima Cluster"
+    },
+    "NGC1893": {
+        "字母Y星团": "Letter Y Cluster"
+    },
+    "NGC1910": {
+        "剑鱼座S星团": "S Dor Cluster"
+    },
+    "NGC1912": {
+        "字母π星团": "Letter Pi Cluster",
+        "海星星团": "Starfish Cluster"
+    },
+    "NGC1922": {
+        "海星星团": "Starfish Cluster"
+    },
+    "NGC1931": {
+        "苍蝇星云": "The Fly Nebula"
+    },
+    "NGC1952": {
+        "蟹状星云": "Crab Nebula",
+        "金牛座A": "Taurus A"
+    },
+    "NGC1960": {
+        "风车星团": "Pinwheel Cluster"
+    },
+    "NGC1973": {
+        "美人鱼的钱包星云": "Mermaid's Purse Nebula",
+        "美人鱼钱包星云": "Mermaid's Purse Nebula",
+        "跑步者星云": "Running Man Nebula"
+    },
+    "NGC1975": {
+        "跑步者星云": "Running Man Nebula"
+    },
+    "NGC1976": {
+        "猎户座A": "Orion A",
+        "猎户座大星云": "Great Orion Nebula",
+        "猎户座星云": "Orion Nebula"
+    },
+    "NGC1977": {
+        "美人鱼的钱包": "Mermaid's Purse",
+        "美人鱼钱包": "Mermaid's Purse",
+        "跑步者星云": "Running Man Nebula"
+    },
+    "NGC1980": {
+        "猎户座下半剑": "Lower Sword",
+        "猎户座遗失宝石": "The Lost Jewel of Orion"
+    },
+    "NGC1981": {
+        "煤车星团": "Coal Car Cluster",
+        "猎户座上半剑": "Upper Sword"
+    },
+    "NGC1982": {
+        "梅朗星云": "Mairan's Nebula",
+        "迪马伦星云": "de Mairan's Nebula"
+    },
+    "NGC1990": {
+        "参宿二星云": "ε Ori Nebula"
+    },
+    "NGC1999": {
+        "橡皮戳星云": "Rubber Stamp Nebula",
+        "第13珍珠星云": "13th Pearl Nebula",
+        "黑眼星云": "Black Eye Nebula"
+    },
+    "NGC2022": {
+        "吻月星云": "Kissing Crescents Nebula",
+        "猎户的锁骨星云": "Orion's Collarbone Nebula",
+        "猎户锁骨星云": "Orion's Collarbone Nebula"
+    },
+    "NGC2024": {
+        "参宿一之魂": "The Ghost of Alnitak",
+        "唇星云": "Lips Nebula",
+        "坦克履带星云": "Tank Tracks Nebula",
+        "枫叶星云": "Maple Leaf Nebula",
+        "火树星云": "Burning Bush Nebula",
+        "火焰星云": "Flame Nebula"
+    },
+    "NGC206": {
+        "仙女座星系中大恒星云": "Great Star Cloud in Andromeda Galaxy",
+        "仙女座星系中的大恒星云": "Great Star Cloud in Andromeda Galaxy"
+    },
+    "NGC2060": {
+        "剑鱼座30 B": "30 Dor B"
+    },
+    "NGC2068": {
+        "鬼马小精灵星云 ": "Casper the Friendly Ghost Nebula"
+    },
+    "NGC2070": {
+        "剑鱼座30星云": "30 Dor Nebula",
+        "剑鱼座30星团": "30 Dor Cluster",
+        "同心结星云": "True Lovers' Knot",
+        "大环星云": "Great Looped Nebula",
+        "狼蛛星云": "Tarantula Nebula"
+    },
+    "NGC2080": {
+        "鬼头星云": "Ghost Head Nebula"
+    },
+    "NGC2099": {
+        "一月椒盐星团": "January Salt-and-Pepper Cluster",
+        "御夫座椒盐星团": "Auriga Salt and Pepper Cluster"
+    },
+    "NGC2146": {
+        "脏手星系": "Dusty Hand Galaxy"
+    },
+    "NGC2168": {
+        "鞋扣星团": "Shoe-Buckle Cluster"
+    },
+    "NGC2169": {
+        "37星团": "The 37 Cluster",
+        "LE星团": "The 'LE' Cluster",
+        "小七姐妹星团": "Little Pleiades",
+        "购物车星团": "Shopping Cart Cluster"
+    },
+    "NGC2170": {
+        "麒麟座R2 IRS3": "Mon R2 IRS3"
+    },
+    "NGC2174": {
+        "猴头星云": "Monkey Head Nebula"
+    },
+    "NGC2194": {
+        "漫游者星团": "Intergalactic Wanderer"
+    },
+    "NGC2232": {
+        "双锥状星团": "Double Wedge Cluster"
+    },
+    "NGC2237": {
+        "NGC 2244的卫星星团": "NGC 2244 Satellite Cluster",
+        "玫瑰A": "Rosette A",
+        "玫瑰星云": "Rosette Nebula"
+    },
+    "NGC2238": {
+        "玫瑰星云": "Rosette Nebula"
+    },
+    "NGC224": {
+        "仙女座大星云": "Great Nebula in Andromeda",
+        "仙女座星云": "Andromeda Nebula",
+        "仙女座星系": "Andromeda Galaxy"
+    },
+    "NGC2244": {
+        "玫瑰星云": "Rosette Nebula",
+        "竖琴星团": "Harp Cluster"
+    },
+    "NGC2246": {
+        "玫瑰B": "Rosette B",
+        "玫瑰星云": "Rosette Nebula"
+    },
+    "NGC225": {
+        "帆船星团": "Sailboat Cluster",
+        "碎心星团": "Broken Heart Cluster"
+    },
+    "NGC2261": {
+        "哈勃变光星云": "Hubble's Variable Nebula",
+        "哈勃星云": "Hubble's Nebula"
+    },
+    "NGC2264": {
+        "圆锥星云": "Cone Nebula",
+        "圣诞树星团": "Christmas Tree Cluster",
+        "狐皮星云": "Fox Fur Nebula"
+    },
+    "NGC2281": {
+        "碎心星团": "Broken Heart Cluster"
+    },
+    "NGC2287": {
+        "小蜂巢星团": "Little Beehive Cluster"
+    },
+    "NGC2301": {
+        "大鸟星团": "Great Bird Cluster",
+        "海格的龙星团": "Hagrid's Dragon Cluster",
+        "海格龙星团": "Hagrid's Dragon Cluster",
+        "科普兰的金蠕虫": "Copeland's Golden Worm",
+        "科普兰金蠕虫": "Copeland's Golden Worm"
+    },
+    "NGC2323": {
+        "心状星团": "Heart-Shaped Cluster",
+        "线圈星团": "Coil Cluster"
+    },
+    "NGC2343": {
+        "箭头星团": "Doublemint Cluster"
+    },
+    "NGC2346": {
+        "沙漏行星状星云": "Hourglass Planetary Nebula",
+        "红蝴蝶星云": "Crimson Butterfly Nebula",
+        "蝴蝶星云": "Butterfly Nebula"
+    },
+    "NGC2353": {
+        "艾弗里岛星团": "Avery's Island"
+    },
+    "NGC2359": {
+        "雷神头盔": "Thor's Helmet",
+        "雷神的头盔": "Thor's Helmet",
+        "飞眼星云": "Flying Eye Nebula",
+        "鸭头星云": "Duck Head Nebula",
+        "鸭星云": "Duck Nebula"
+    },
+    "NGC2360": {
+        "卡罗琳星团": "Caroline's Cluster"
+    },
+    "NGC2362": {
+        "墨西哥跳跃星": "Mexican Jumping Star",
+        "弧矢增六星团": "τ CMa Cluster",
+        "海盗宝石星团": "Pirate's Jewels Cluster"
+    },
+    "NGC2367": {
+        "查理·布朗圣诞树": "Charlie Brown's Christmas Tree",
+        "查理·布朗的圣诞树": "Charlie Brown's Christmas Tree"
+    },
+    "NGC2371": {
+        "双子座星云": "Gemini Nebula",
+        "双泡星云": "Double Bubble Nebula",
+        "花生星云": "Peanut Nebula",
+        "蚂蚁星云": "Ant Nebula"
+    },
+    "NGC2392": {
+        "丑脸星云": "Clown Face Nebula",
+        "爱斯基摩星云": "Eskimo Nebula"
+    },
+    "NGC2409": {
+        "菲尔瑟213": "Firsse 213"
+    },
+    "NGC2419": {
+        "星际漫游者": "Intergalactic Tramp",
+        "漫游者星团": "Intergalactic Wanderer"
+    },
+    "NGC2420": {
+        "彗闪星团": "Twinkling Comet Cluster"
+    },
+    "NGC2439": {
+        "宽箭头星团": "Bold Arrow Cluster"
+    },
+    "NGC2440": {
+        "吻星云": "Kiss Nebula",
+        "樱唇星云": "Little Lips Nebula",
+        "烈火星云": "Burning Ember Nebula",
+        "白蝴蝶星云": "Albino Butterfly Nebula",
+        "蝙蝠星云": "Bat Nebula"
+    },
+    "NGC2442": {
+        "肉钩星系": "Meathook Galaxy"
+    },
+    "NGC2447": {
+        "蝴蝶星团": "Butterfly Cluster"
+    },
+    "NGC2451": {
+        "刺蝎星团": "Stinging Scorpion Cluster"
+    },
+    "NGC246": {
+        "头骨星云": "Skull Nebula",
+        "巫毒面具星云": "Voodoo Mask Nebula",
+        "肥皂泡星云": "Soap Bubble Nebula"
+    },
+    "NGC2467": {
+        "链式胸针星云": "Chained Brooch Nebula",
+        "骷髅头星云": "Skull and Crossbones Nebula"
+    },
+    "NGC247": {
+        "伯比奇链": "Burbidge Chain"
+    },
+    "NGC2477": {
+        "电吉他星团": "Electric Guitar Cluster",
+        "白蚁洞星团": "Termite Hole Cluster"
+    },
+    "NGC2516": {
+        "南蜂巢星团": "Southern Beehive",
+        "短跑人星团": "Sprinter Cluster",
+        "钻石星团": "Diamond Cluster"
+    },
+    "NGC253": {
+        "玉夫座星系": "Sculptor Galaxy",
+        "银元星系": "Silver Dollar Galaxy",
+        "银币星系": "Silver Coin Galaxy"
+    },
+    "NGC2537": {
+        "熊掌星云": "Bear Claw Nebula",
+        "熊掌星系": "Bear's Paw Galaxy"
+    },
+    "NGC2539": {
+        "盘状星团": "The Dish Cluster"
+    },
+    "NGC2546": {
+        "伤心星团": "Wounded Heart Cluster",
+        "心与匕首星团": "Heart and Dagger Cluster"
+    },
+    "NGC2547": {
+        "圣彼得十字星团": "St. Peter's Cross Cluster",
+        "金耳环星团": "Golden Earring Cluster"
+    },
+    "NGC2548": {
+        "蜂巢星团": "Beehive Cluster"
+    },
+    "NGC2557": {
+        "马吕斯星系团": "Malus Cluster"
+    },
+    "NGC2573": {
+        "南极星系": "Polarissima Australis"
+    },
+    "NGC262": {
+        "马卡良348": "Markarian 348"
+    },
+    "NGC2632": {
+        "蜂巢星团": "Beehive Cluster",
+        "马槽星团": "Manger",
+        "鬼星团": "Praesepe"
+    },
+    "NGC2682": {
+        "吃豆人星团": "Pac-Man Cluster",
+        "眼镜王蛇星团": "King Cobra Cluster",
+        "金眼星团": "Golden-Eye Cluster"
+    },
+    "NGC2683": {
+        "UFO星系": "UFO Galaxy"
+    },
+    "NGC2685": {
+        "煎饼星系": "Pancake Galaxy",
+        "螺旋星系": "Helix Galaxy"
+    },
+    "NGC2686": {
+        "纺锤星系": "Spindle Galaxy"
+    },
+    "NGC2736": {
+        "赫歇尔的线条星云": "Herschel's Ray Nebula",
+        "赫歇尔线条星云": "Herschel's Ray Nebula",
+        "铅笔星云": "Pencil Nebula"
+    },
+    "NGC2769": {
+        "NGC 2769星系群": "NGC 2769 Group"
+    },
+    "NGC2770": {
+        "超新星工厂星系": "Supernova Factory"
+    },
+    "NGC281": {
+        "吃豆人星云": "Pacman Nebula",
+        "拉菲特大钢琴星云": "Lafitte's Grand Isle",
+        "食鬼星云": "Pac-Man Nebula"
+    },
+    "NGC2841": {
+        "虎眼星系": "Tiger's Eye Galaxy"
+    },
+    "NGC292": {
+        "SMC": "SMC",
+        "小麦云": "Nubecula Minor",
+        "小麦哲伦云": "Small Magellanic Cloud"
+    },
+    "NGC2936": {
+        "企鹅星系": "The Penguin Galaxy",
+        "海豚星系": "The Porpoise Galaxy"
+    },
+    "NGC2937": {
+        "蛋星系": "The Egg Galaxy"
+    },
+    "NGC300": {
+        "南风车星系": "Southern Pinwheel Galaxy"
+    },
+    "NGC3031": {
+        "大漩涡星系": "The Great Spiral",
+        "波德星云": "Bode's Nebula",
+        "波德星系": "Bode's Galaxy"
+    },
+    "NGC3034": {
+        "大熊座A": "Ursa Major A",
+        "波德星云": "Bode's Nebula",
+        "雪茄星系": "Cigar Galaxy"
+    },
+    "NGC3077": {
+        "花环星系": "The Garland Galaxy"
+    },
+    "NGC3079": {
+        "幻影飞碟星系": "The Phantom Frisbee Galaxy"
+    },
+    "NGC3114": {
+        "手状星团": "Hand Cluster"
+    },
+    "NGC3115": {
+        "主轴星云": "Spindle Nebula",
+        "纺锤星系": "Spindle Galaxy"
+    },
+    "NGC3132": {
+        "南指环星云": "Southern Ring Nebula",
+        "双环星云": "Eight-Burst Planetary Nebula"
+    },
+    "NGC3172": {
+        "北极星系": "Polarissima Borealis",
+        "近极星系": "Polarissima"
+    },
+    "NGC3180": {
+        "小风车星系": "Little Pinwheel Galaxy"
+    },
+    "NGC3185": {
+        "狮子座四重星系": "Leo Quartet"
+    },
+    "NGC3187": {
+        "狮子座四重星系": "Leo Quartet"
+    },
+    "NGC3189": {
+        "NGC3190星系群": "NGC 3190 Group",
+        "狮子座四重星系": "Leo Quartet"
+    },
+    "NGC3193": {
+        "狮子座四重星系": "Leo Quartet"
+    },
+    "NGC3228": {
+        "女王的私藏星团": "Queen's Cache Cluster",
+        "女王私藏星团": "Queen's Cache Cluster"
+    },
+    "NGC3242": {
+        "木魂星云": "Ghost of Jupiter Nebula",
+        "眼星云": "Eye Nebula"
+    },
+    "NGC3293": {
+        "宝石星团": "Gem Cluster",
+        "小珠宝星团": "Little Jewel Box",
+        "蛛丝星团": "Spider Spit Cluster"
+    },
+    "NGC3324": {
+        "加夫列拉·米斯特拉尔星云": "The Gabriela Mistral Nebula",
+        "钥匙孔星云": "Keyhole Nebula"
+    },
+    "NGC3344": {
+        "洋葱切片星系": "Sliced Onion Galaxy"
+    },
+    "NGC3372": {
+        "侏儒星云": "Homunculus Nebula",
+        "船底座大星云": "The Great Nebula in Carina",
+        "船底座星云": "η Car Nebula",
+        "钥匙孔星云": "Keyhole Nebula"
+    },
+    "NGC3432": {
+        "编制针星系": "Knitting Needle Galaxy"
+    },
+    "NGC3532": {
+        "枕星团": "Pincushion Cluster",
+        "萤火虫群星团": "Firefly Party Cluster",
+        "许愿井星团": "Wishing Well Cluster",
+        "针垫星团": "The Pin Cushion Cluster"
+    },
+    "NGC3556": {
+        "冲浪板星系": "Surfboard Galaxy"
+    },
+    "NGC3561": {
+        "吉他星系": "The Guitar",
+        "安巴楚勉之结": "Ambartsumian's Knot"
+    },
+    "NGC3576": {
+        "自由女神星云": "Statue of Liberty Nebula"
+    },
+    "NGC3587": {
+        "夜枭星云": "Owl Nebula"
+    },
+    "NGC3621": {
+        "南十字星系": "Southern Cross Galaxy",
+        "眼镜框星系": "Frame Galaxy"
+    },
+    "NGC3623": {
+        "狮子座三重星系": "Leo Triplet"
+    },
+    "NGC3627": {
+        "狮子座三重星系": "Leo Triplet"
+    },
+    "NGC3628": {
+        "哈姆雷特王之魂": "King Hamlet's Ghost",
+        "汉堡星系": "The Hamburger Galaxy",
+        "消没星系": "Vanishing Galaxy",
+        "狮子座三重星系": "Leo Triplet"
+    },
+    "NGC3745": {
+        "科普兰七重星系": "Copeland's Septet"
+    },
+    "NGC3746": {
+        "科普兰七重星系": "Copeland's Septet"
+    },
+    "NGC3748": {
+        "科普兰七重星系": "Copeland's Septet"
+    },
+    "NGC375": {
+        "双鱼座云": "Pisces Cloud"
+    },
+    "NGC3750": {
+        "科普兰七重星系": "Copeland's Septet"
+    },
+    "NGC3751": {
+        "科普兰七重星系": "Copeland's Septet"
+    },
+    "NGC3753": {
+        "科普兰七重星系": "Copeland's Septet"
+    },
+    "NGC3754": {
+        "科普兰七重星系": "Copeland's Septet"
+    },
+    "NGC3766": {
+        "富翁珠宝盒": "Rich Man's Jewel Box",
+        "富翁的珠宝盒": "Rich Man's Jewel Box",
+        "珍珠星团": "Pearl Cluster"
+    },
+    "NGC383": {
+        "NGC 383星系群": "NGC 383 group"
+    },
+    "NGC3918": {
+        "南方人星云": "The Southerner",
+        "蓝行星状星云": "Blue Planetary Nebula"
+    },
+    "NGC3928": {
+        "微螺旋星系": "Miniature Spiral"
+    },
+    "NGC3992": {
+        "吸尘器星系": "Vacuum Cleaner Galaxy"
+    },
+    "NGC40": {
+        "披风星云": "Scarab Nebula",
+        "蝴蝶结星云": "Bow-Tie Nebula"
+    },
+    "NGC4005": {
+        "NGC 4005星系群": "NGC 4005 group"
+    },
+    "NGC4038": {
+        "套索星系": "Snorter",
+        "环尾星系": "Ring-Tail Galaxy",
+        "触须星系": "Antennae"
+    },
+    "NGC4039": {
+        "套索星系": "Snorter",
+        "环尾星系": "Ring-Tail Galaxy",
+        "触须星系": "Antennae"
+    },
+    "NGC404": {
+        "奎宿九之魂": "Mirach's Ghost",
+        "遗珠星系": "Lost Pearl Galaxy"
+    },
+    "NGC4103": {
+        "长尾星团": "The Longtail"
+    },
+    "NGC4147": {
+        "踢罐星团": "Kick the Can Cluster"
+    },
+    "NGC4169": {
+        "方盒星系群": "The Box"
+    },
+    "NGC4170": {
+        "方盒星系群": "The Box"
+    },
+    "NGC4174": {
+        "方盒星系群": "The Box"
+    },
+    "NGC4175": {
+        "方盒星系群": "The Box"
+    },
+    "NGC4194": {
+        "美杜莎合并星系": "Medusa merger",
+        "美杜莎星系": "Medusa Galaxy",
+        "美杜莎星系合并": "Medusa Galaxy Merger"
+    },
+    "NGC4216": {
+        "织布梭星系": "Weaver's Shuttle Galaxy",
+        "银纹星系": "Silver Streak Galaxy"
+    },
+    "NGC4254": {
+        "后发座风车星系": "Coma Pinwheel Galaxy",
+        "圣凯瑟琳轮": "St. Catherine’s Wheel",
+        "室女座星系团风车": "Virgo Cluster Pinwheel",
+        "风车星系": "Pinwheel Galaxy"
+    },
+    "NGC4276": {
+        "浮士德V023": "Faust V023"
+    },
+    "NGC4303": {
+        "胖螺旋星系": "Swelling Spiral Galaxy"
+    },
+    "NGC4321": {
+        "吹风机星系": "Blowdryer Galaxy",
+        "镜子星系": "Mirror Galaxy"
+    },
+    "NGC4325": {
+        "室女座星系团": "Galaxy Cluster"
+    },
+    "NGC4361": {
+        "洒水器星云": "Lawn Sprinkler Nebula"
+    },
+    "NGC4374": {
+        "马卡良星系链": "Markarian's Chain"
+    },
+    "NGC4387": {
+        "星系构成的脸": "Great Galactic Face",
+        "星系构成脸": "Great Galactic Face"
+    },
+    "NGC4406": {
+        "浮士德V051": "Faust V051",
+        "马卡良星系链": "Markarian's Chain"
+    },
+    "NGC4435": {
+        "双眼星系": "The Eyes",
+        "科普兰之眼": "Copeland's Eyes"
+    },
+    "NGC4438": {
+        "双眼星系": "The Eyes",
+        "科普兰之眼": "Copeland's Eyes"
+    },
+    "NGC4473": {
+        "马卡良星系链": "Markarian's Chain"
+    },
+    "NGC4477": {
+        "马卡良星系链": "Markarian's Chain"
+    },
+    "NGC4486": {
+        "室女座A": "Virgo A",
+        "室女座星系": "Virgo Galaxy",
+        "烟枪星系": "Smoking gun"
+    },
+    "NGC4490": {
+        "茧星系": "Cocoon Galaxy"
+    },
+    "NGC4507": {
+        "夏普利-艾姆斯2": "Shapley-Ames 2"
+    },
+    "NGC4526": {
+        "眉毛星系": "Hairy Eyebrow Galaxy",
+        "遗失星系": "Lost Galaxy"
+    },
+    "NGC4535": {
+        "科普兰遗失星系": "The Lost Galaxy of Copeland"
+    },
+    "NGC4559": {
+        "锦鲤星系": "Koi Fish Galaxy"
+    },
+    "NGC4565": {
+        " 贝雷奈西发卡": "Berenice's Hair Clip",
+        " 贝雷奈西的发卡": "Berenice's Hair Clip",
+        "针状星系": "Needle Galaxy",
+        "飞碟星系": "Flying Saucer Galaxy"
+    },
+    "NGC4567": {
+        "双胞胎星系": "Siamese Twins",
+        "鱼薯条星系": "Fish and Chips Galaxies"
+    },
+    "NGC4568": {
+        "双胞胎星系": "Siamese Twins",
+        "鱼薯条星系": "Fish and Chips Galaxies"
+    },
+    "NGC457": {
+        "外星人星团": "E.T. Cluster",
+        "猫头鹰星团": "Owl Cluster",
+        "蜻蜓星团": "Dragonfly Cluster"
+    },
+    "NGC4594": {
+        "暗带星系": "Dark Lane Galaxy",
+        "草帽星系": "Sombrero Galaxy"
+    },
+    "NGC4605": {
+        "俄罗斯彩蛋星系": "Faberge Egg Galaxy",
+        "弗兰肯斯坦星系": "Frankenstein Galaxy"
+    },
+    "NGC4609": {
+        "煤袋星团": "Coalsack Cluster"
+    },
+    "NGC4622": {
+        "半人马座星系链": "Centaurus Chain"
+    },
+    "NGC4631": {
+        "鲱鱼星系": "Herring Galaxy",
+        "鲸鱼星系": "Whale Galaxy"
+    },
+    "NGC4650": {
+        "半人马座星系链": "Centaurus Chain"
+    },
+    "NGC4651": {
+        "伞星系": "Umbrella Galaxy"
+    },
+    "NGC4656": {
+        "撬棒星系": "Crowbar Galaxy",
+        "曲棍球星系": "Hockey Stick Galaxy",
+        "蜂鸟星系": "The Hummingbird",
+        "钩星系": "The Hook"
+    },
+    "NGC4657": {
+        "鱼钩星系": "Fishhook Galaxy"
+    },
+    "NGC4666": {
+        "超级风星系": "Superwind-Galaxy"
+    },
+    "NGC4669": {
+        "黑胶唱片星系": "Vinyl LP Galaxy"
+    },
+    "NGC4676": {
+        "双鼠星系": "Mice Galaxies"
+    },
+    "NGC4736": {
+        "鳄鱼眼星系": "Croc's Eye Galaxy"
+    },
+    "NGC4753": {
+        "尘卷暴星系": "Dust Devil Galaxy"
+    },
+    "NGC4755": {
+        "南十字座κ星团": "κ Cru Cluster",
+        "宝盒星团": "Jewel Box",
+        "赫歇尔珠宝盒": "Herschel's Jewel Box",
+        "赫歇尔的珠宝盒": "Herschel's Jewel Box"
+    },
+    "NGC4762": {
+        "纸风筝星系": "Paper-Kite Galaxy"
+    },
+    "NGC4774": {
+        "腰豆星系": "Kidney Bean Galaxy"
+    },
+    "NGC4826": {
+        "睡美人星系": "Sleeping Beauty Galaxy",
+        "邪眼星系": "Evil Eye Galaxy",
+        "黑眼星系": "Black Eye Galaxy"
+    },
+    "NGC4833": {
+        "南天蝴蝶星团": "The Southern Butterfly"
+    },
+    "NGC488": {
+        "转马星系": "Whirligig Galaxy"
+    },
+    "NGC4889": {
+        "后发座B": "Coma B"
+    },
+    "NGC4898": {
+        "后发座Z彗发星系": "Z Coma Coma"
+    },
+    "NGC4945": {
+        "镊子星系": "The Tweezers Galaxy"
+    },
+    "NGC4990": {
+        "茧星系": "Cocoon Galaxy"
+    },
+    "NGC5033": {
+        "田鳖星系": "Waterbug Galaxy"
+    },
+    "NGC5044": {
+        "NGC 5044星系群": "NGC 5044 group"
+    },
+    "NGC5055": {
+        "向日葵星系": "Sunflower Galaxy"
+    },
+    "NGC507": {
+        "NGC 507星系群": "NGC 507 group"
+    },
+    "NGC5102": {
+        "柱十一之魂": "Iota's Ghost"
+    },
+    "NGC5128": {
+        "半人马座A": "Centaurus A",
+        "汉堡星系": "The Hamburger Galaxy"
+    },
+    "NGC5139": {
+        "半人马座奥米茄星团": "ω Cen Cluster"
+    },
+    "NGC5189": {
+        "螺旋行星状星云": "Spiral Planetary Nebula"
+    },
+    "NGC5194": {
+        "涡状星云": "Whirlpool Nebula",
+        "涡状星系": "Whirlpool Galaxy",
+        "漩涡星云": "Spiral Nebula",
+        "罗斯星系": "Rosse's Galaxy",
+        "问号星系": "Question Mark Galaxy"
+    },
+    "NGC5195": {
+        "M51替代者": "A Justifiable Replacement for M51",
+        "涡状星系": "Whirlpool Galaxy"
+    },
+    "NGC5216": {
+        "基南系统": "Keenan's System"
+    },
+    "NGC5218": {
+        "基南系统": "Keenan's System"
+    },
+    "NGC5236": {
+        "千红宝石星系": "Thousand Rubies Galaxy",
+        "南风车星系": "Southern Pinwheel Galaxy"
+    },
+    "NGC5281": {
+        "小蝎星团": "Little Scorpion Cluster"
+    },
+    "NGC5291": {
+        "贝壳星系": "Seashell Galaxy"
+    },
+    "NGC5353": {
+        "NGC 5353星系群": "NGC 5353 group"
+    },
+    "NGC5394": {
+        "苍鹭星系": "The Heron Galaxy"
+    },
+    "NGC5395": {
+        "苍鹭星系": "The Heron Galaxy"
+    },
+    "NGC5416": {
+        "NGC 5416星系群": "NGC 5416 group"
+    },
+    "NGC5457": {
+        "风车星系": "Pinwheel Galaxy"
+    },
+    "NGC5466": {
+        "雪球星团": "Snowglobe Cluster",
+        "鬼魂球状星团": "Ghost Globular Cluster"
+    },
+    "NGC55": {
+        "珍珠串星系": "String of Pearls"
+    },
+    "NGC5617": {
+        "德古拉星团": "Dracula Cluster"
+    },
+    "NGC5623": {
+        "龙星云": "Dragon Nebula"
+    },
+    "NGC5629": {
+        "NGC 5629星系群": "NGC 5629 group"
+    },
+    "NGC5662": {
+        "舞毒蛾星团": "Gypsy Moth Cluster"
+    },
+    "NGC5746": {
+        "刃珠星系": "Blade and Pearl Galaxy",
+        "迷你墨西哥帽星系": "The Mini Sombrero Galaxy"
+    },
+    "NGC584": {
+        "小主轴星系": "Little Spindle Galaxy"
+    },
+    "NGC5866": {
+        "纺锤星系": "Spindle Galaxy",
+        "金钱游戏星系": "Fool's Gold Galaxy"
+    },
+    "NGC5882": {
+        "天王星之魂星云": "Ghost of Uranus"
+    },
+    "NGC5892": {
+        "法思703": "Fath 703"
+    },
+    "NGC5897": {
+        "鬼魂球状星团": "Ghost Globular Cluster"
+    },
+    "NGC5904": {
+        "玫瑰星团": "Rose Cluster"
+    },
+    "NGC5906": {
+        "刀锋星系": "Knife Edge Galaxy",
+        "分裂星系": "Splinter Galaxy",
+        "猫爪星系": "Cat Scratch Galaxy"
+    },
+    "NGC598": {
+        "三角座大星云": "Triangulum Nebula",
+        "三角座星系": "Triangulum Galaxy",
+        "三角座风车": "Triangulum Pinwheel",
+        "风车星系": "Pinwheel Galaxy"
+    },
+    "NGC6027": {
+        "巨蛇座六兄弟": "Serpens Sextet",
+        "赛弗特六重星系": "Seyfert's Sextet"
+    },
+    "NGC6087": {
+        "矩尺座S星团": "S Nor Cluster"
+    },
+    "NGC6121": {
+        "蜘蛛球状星团": "Spider Globular Cluster",
+        "蟹状星团": "Crab Globular Cluster"
+    },
+    "NGC6134": {
+        "小枕星团": "Little Pincushion"
+    },
+    "NGC6169": {
+        "矩尺座μ星团": "μ Normae Cluster"
+    },
+    "NGC6171": {
+        "十字架星团": "The Crucifix Cluster"
+    },
+    "NGC6188": {
+        "环星云": "Rim Nebula"
+    },
+    "NGC6205": {
+        "武仙座大球状星团": "Hercules Globular Cluster",
+        "武仙座球状星团": "Great Star Cluster in Hercules"
+    },
+    "NGC6210": {
+        "乌龟星云": "Turtle Nebula"
+    },
+    "NGC6218": {
+        "口香糖球状星团": "Gumball Globular Cluster"
+    },
+    "NGC6229": {
+        "彗星奖球状星团": "Prize Comet Globular Cluster"
+    },
+    "NGC6231": {
+        "伪彗星星云": "False Comet Nebula",
+        "北宝盒星团": "Northern Jewel Box Cluster",
+        "天蝎座表": "Table of Scorpius Cluster",
+        "鳄鱼星团": "Crocodile Cluster"
+    },
+    "NGC6266": {
+        "闪球星团": "Flickering Globular Cluster"
+    },
+    "NGC628": {
+        "幻影星系": "Phantom Galaxy"
+    },
+    "NGC6281": {
+        "蛾翼星团": "Moth Wing Cluster"
+    },
+    "NGC6302": {
+        "小虫星云": "Bug Nebula",
+        "蝴蝶星云": "Butterfly Nebula"
+    },
+    "NGC6309": {
+        "感叹号星云": "Exclamation Mark Nebula",
+        "方盒星云": "Box Nebula"
+    },
+    "NGC6334": {
+        "猫掌星云": "Cat's Paw Nebula"
+    },
+    "NGC6337": {
+        "麦圈星云": "Cheerio Nebula"
+    },
+    "NGC6357": {
+        "战争与和平星云": "War and Peace Nebula",
+        "龙虾星云": "Lobster Nebula"
+    },
+    "NGC6369": {
+        "小鬼魂星云": "Little Ghost Nebula",
+        "火星之魂星云": "Ghost of Mars Nebula"
+    },
+    "NGC6380": {
+        "托南钦特拉1球状星团": "Tonantzintla 1"
+    },
+    "NGC6400": {
+        "幻影星团": "Phantom Cluster",
+        "约翰·西尔弗星团": "Long John Silver Cluster"
+    },
+    "NGC6405": {
+        "天堂之辉": "Splendors of the Heavens",
+        "蝴蝶星团": "Butterfly Cluster"
+    },
+    "NGC6441": {
+        "银块星团": "Silver Nugget Cluster"
+    },
+    "NGC6445": {
+        "小宝石星云": "Little Gem Nebula",
+        "方盒星云": "Box Nebula"
+    },
+    "NGC6451": {
+        "汤姆拇指星团": "Tom Thumb Cluster"
+    },
+    "NGC6475": {
+        "托勒密星团": "Ptolemy's Cluster"
+    },
+    "NGC650": {
+        "小哑铃星云": "Little Dumbbell Nebula",
+        "杠铃星云": "Barbell Nebula",
+        "蝴蝶星云": "Butterfly Nebula",
+        "软木塞星云": "Cork Nebula"
+    },
+    "NGC6503": {
+        "太空迷航星系": "Lost in Space Galaxy"
+    },
+    "NGC651": {
+        "小哑铃星云": "Little Dumbbell Nebula"
+    },
+    "NGC6514": {
+        "三裂星云": "Trifid Nebula"
+    },
+    "NGC6520": {
+        "亡灵宝藏星团": "Dead Man's Chest Cluster",
+        "遇难者星团": "Castaway Cluster"
+    },
+    "NGC6522": {
+        "巴德窗": "Baade's Window"
+    },
+    "NGC6523": {
+        "礁湖星云": "Lagoon Nebula"
+    },
+    "NGC6530": {
+        "沙漏星团": "Hourglass Cluster",
+        "礁湖星云": "Lagoon Nebula",
+        "赫歇尔36": "Herschel 36"
+    },
+    "NGC6531": {
+        "韦伯十字架": "Webb's Cross",
+        "韦伯的十字架": "Webb's Cross"
+    },
+    "NGC6537": {
+        "红蜘蛛星云": "Red spider Nebula"
+    },
+    "NGC654": {
+        "迷蝶星团": "Fuzzy Butterfly Cluster"
+    },
+    "NGC6541": {
+        "砂锅星团": "Cacciatore Cluster"
+    },
+    "NGC6543": {
+        "向日葵星云": "Sunflower Nebula",
+        "猫眼星云": "Cat's Eye Nebula",
+        "蜗牛星云": "Snail Nebula"
+    },
+    "NGC6544": {
+        "海星星团": "Starfish Cluster"
+    },
+    "NGC6563": {
+        "南指环星云": "Southern Ring Nebula"
+    },
+    "NGC6572": {
+        "氪星星云": "Planet Krypton Nebula",
+        "祖母绿之眼行星状星云": "Emerald Eye Planetary Nebula",
+        "绿松石星云": "Turquoise Orb Nebula",
+        "翡翠星云": "Emerald Nebula",
+        "蓝壁球星云": "Blue Racquetball Nebula"
+    },
+    "NGC659": {
+        "阴阳星团": "Yin-Yang Cluster"
+    },
+    "NGC6611": {
+        "星之女王星云": "Star Queen Nebula",
+        "鹰星云": "Eagle Nebula"
+    },
+    "NGC6613": {
+        "黑天鹅星团": "Black Swan Cluster"
+    },
+    "NGC6618": {
+        "天鹅星云": "Swan Nebula",
+        "奥米茄星云": "Omega Nebula",
+        "核对符号星云": "Checkmark Nebula",
+        "马蹄星云": "Horseshoe Nebula",
+        "龙虾星云": "Lobster Nebula"
+    },
+    "NGC6621": {
+        "爱德华星系": "Edward's Galaxy"
+    },
+    "NGC6622": {
+        "爱德华星系": "Edward's Galaxy"
+    },
+    "NGC663": {
+        "割草机星团": "Lawnmower Cluster",
+        "字母S星团": "Letter S Cluster"
+    },
+    "NGC6633": {
+        "双胞胎星团": "Tweedledum Cluster",
+        "胡克船长星团": "Captain Hook Cluster",
+        "蜂腰星团": "Wasp-Waist Cluster"
+    },
+    "NGC6642": {
+        "蝌蚪星团": "Tadpole Cluster"
+    },
+    "NGC6656": {
+        "人马座大星团": "Great Sagittarius Cluster",
+        "能人星团": "Crackerjack Cluster"
+    },
+    "NGC6664": {
+        "圣诞雪橇星团": "Santa's Sleigh Cluster",
+        "茶杯星团": "Teacup Cluster"
+    },
+    "NGC6705": {
+        "七月椒盐星团": "July Salt-and-Pepper Cluster",
+        "盾牌座椒盐星团": "Scutum Salt-and-Pepper Cluster",
+        "野鸭星团": "Wild Duck Cluster"
+    },
+    "NGC6709": {
+        "飞独角兽星团": "Flying Unicorn Cluster"
+    },
+    "NGC6720": {
+        "指环星云": "Ring Nebula"
+    },
+    "NGC6723": {
+        "吊灯星团": "Chandelier Cluster"
+    },
+    "NGC6729": {
+        "南冕座R星云": "R CrA Nebula"
+    },
+    "NGC6741": {
+        "幻影条纹星云": "Phantom Streak Nebula"
+    },
+    "NGC6745": {
+        "鸟头星系": "Bird's Head"
+    },
+    "NGC6751": {
+        "发光的眼睛星云": "Glowing Eye Nebula",
+        "发光眼睛星云": "Glowing Eye Nebula",
+        "蒲公英星云": "Dandelion Puffball Nebula"
+    },
+    "NGC6752": {
+        "孔雀座海星": "The Starfish",
+        "孔雀座球状星团": "Pavo Globular Cluster",
+        "孔雀座风车": "The Windmill"
+    },
+    "NGC6755": {
+        "可能双星团": "Possible Binary Cluster",
+        "可能的双星团": "Possible Binary Cluster"
+    },
+    "NGC6756": {
+        "可能双星团": "Possible Binary Cluster",
+        "可能的双星团": "Possible Binary Cluster"
+    },
+    "NGC6776": {
+        "五角星系": "Pentagon"
+    },
+    "NGC6778": {
+        "M76之子": "Son of M76"
+    },
+    "NGC6781": {
+        "月魂星云": "Ghost of the Moon Nebula",
+        "雪球星云": "Snowball Nebula"
+    },
+    "NGC6804": {
+        "收缩星云": "Incredible Shrinking Nebula",
+        "雪球星云": "Snowball Nebula"
+    },
+    "NGC6809": {
+        "夏日玫瑰之星": "The Summer Rose Star",
+        "幽灵星团": "Specter Cluster"
+    },
+    "NGC6811": {
+        "圣物箱星团": "The Reliquary",
+        "洞穴星团": "Hole in a Cluster",
+        "烟圈星团": "Smoke Ring",
+        "纳芙蒂蒂头饰": "Nefertiti's headpiece",
+        "纳芙蒂蒂的头饰": "Nefertiti's headpiece"
+    },
+    "NGC6818": {
+        "小宝石星云": "Little Gem Nebula",
+        "绿火星星云": "Green Mars Nebula"
+    },
+    "NGC6819": {
+        "狐头星团": "The Foxhead Cluster",
+        "章鱼星团": "Octopus Cluster"
+    },
+    "NGC6822": {
+        "哈勃X": "Hubble X",
+        "巴纳德星系": "Barnard's Galaxy"
+    },
+    "NGC6826": {
+        "眨眼行星状星云": "Blinking Planetary Nebula"
+    },
+    "NGC6830": {
+        "贵宾犬星团": "Poodle Cluster"
+    },
+    "NGC6838": {
+        "神仙鱼星团": "Angelfish Cluster",
+        "箭矢星团": "The Arrowhead Cluster"
+    },
+    "NGC6845": {
+        "克莱莫拉30": "Klemola 30"
+    },
+    "NGC6853": {
+        "响铃星云": "Diabolo Nebula",
+        "哑铃星云": "Dumbbell Nebula",
+        "苹果核星云": "Apple Core Nebula"
+    },
+    "NGC6866": {
+        "军舰鸟星团": "Frigate (Pirate) Bird Cluster",
+        "风筝星团": "Kite Cluster"
+    },
+    "NGC6872": {
+        "秃鹰星系": "Condor Galaxy"
+    },
+    "NGC6885": {
+        "狐狸座20星团": "20 Vulpeculae Cluster"
+    },
+    "NGC6888": {
+        "眉月星云": "Crescent Nebula",
+        "耳星云": "Ear Nebula"
+    },
+    "NGC6894": {
+        "小指环星云": "Little Ring Nebula",
+        "钻戒星云": "Diamond Ring Nebula"
+    },
+    "NGC6905": {
+        "笼中之灵星云": "Caged Spirit Nebula",
+        "蓝闪星云": "Blue Flash Nebula"
+    },
+    "NGC6907": {
+        "巨兽星系": "Giant Behemoth Galaxy"
+    },
+    "NGC6910": {
+        "尺蠖星团": "The Inchworm Cluster",
+        "木马星团": "The Rocking Horse Cluster"
+    },
+    "NGC6913": {
+        "冷却塔星团": "Cooling Tower",
+        "小姐妹星团": "Little Sisters"
+    },
+    "NGC6939": {
+        "绢扇星团": "Silk Fan Cluster",
+        "雁形星团": "Flying Geese Cluster",
+        "鬼套星团": "Ghost Bush Cluster"
+    },
+    "NGC6940": {
+        "魔斯拉星团": "Mothra Cluster"
+    },
+    "NGC6946": {
+        "烟花星系": "Fireworks Galaxy"
+    },
+    "NGC6960": {
+        "卷毛星云": "Cirrus Nebula",
+        "女巫扫帚星云": "Witch's Broom Nebula",
+        "纤维星云": "Filamentary Nebula",
+        "西面纱星云": "West Veil Nebula",
+        "面纱星云": "Veil Nebula"
+    },
+    "NGC6979": {
+        "弗莱明三角星云": "Fleming's Triangular Wisp",
+        "面纱星云": "Veil Nebula"
+    },
+    "NGC6990": {
+        "女巫扫帚星系": "Witch's Broom Galaxy"
+    },
+    "NGC6992": {
+        "东面纱星云": "East Veil Nebula",
+        "面纱星云": "Veil Nebula"
+    },
+    "NGC6995": {
+        "网星云": "Network Nebula",
+        "面纱星云": "Veil Nebula"
+    },
+    "NGC6996": {
+        "鸟巢": "Bird's Nest"
+    },
+    "NGC7000": {
+        "北美洲星云": "North America Nebula"
+    },
+    "NGC7008": {
+        "纽扣星云": "Coat Button Nebula",
+        "胎儿星云": "Fetus Nebula"
+    },
+    "NGC7009": {
+        "土星状星云": "Saturn Nebula"
+    },
+    "NGC7023": {
+        "鸢尾花星云": "Iris Nebula"
+    },
+    "NGC7026": {
+        "乳酪汉堡星云": "Cheeseburger Nebula",
+        "伯纳姆星云": "Burnham's Nebula"
+    },
+    "NGC7027": {
+        "棒棒糖星云": "Sugar Pops Nebula",
+        "粉枕星云": "Pink Pillow Nebula",
+        "绿矩星云": "Green Rectangle Nebula",
+        "魔毯星云": "Magic Carpet Nebula"
+    },
+    "NGC7048": {
+        "躲猫猫星云": "Peek-a-Boo Nebula"
+    },
+    "NGC7078": {
+        "飞马座大星团": "Great Pegasus Cluster",
+        "飞马座星团": "Pegasus Cluster"
+    },
+    "NGC7099": {
+        "海蜇星团": "Jellyfish Cluster"
+    },
+    "NGC7129": {
+        "NGC 7129红外星团": "NGC 7129 IR Cluster",
+        "小星团星云": "Small Cluster Nebula",
+        "玫瑰花苞星云": "Cosmic Rosebud"
+    },
+    "NGC7160": {
+        "李小龙星团": "Bruce Lee Cluster",
+        "短吻鳄星团": "Swimming Alligator Cluster"
+    },
+    "NGC7209": {
+        "醉蜥星团": "Drunken Lizard Cluster",
+        "飞蜥星团": "Star Lizard Cluster"
+    },
+    "NGC7252": {
+        "核和平星系": "Atoms for Peace Galaxy"
+    },
+    "NGC7293": {
+        "上帝之眼": "Helical Nebula",
+        "向日葵星云": "Sunflower Nebula",
+        "螺旋星云": "Helix Nebula"
+    },
+    "NGC7317": {
+        "史蒂芬五重星系": "Stephan's Quintet"
+    },
+    "NGC7318": {
+        "史蒂芬五重星系": "Stephan's Quintet"
+    },
+    "NGC7319": {
+        "史蒂芬五重星系": "Stephan's Quintet"
+    },
+    "NGC7320": {
+        "史蒂芬五重星系": "Stephan's Quintet"
+    },
+    "NGC7331": {
+        "鹿舔星系群": "Deer Lick Group"
+    },
+    "NGC7380": {
+        "哈利·波特和金色飞贼": "Harry Potter and the Golden Snitch",
+        "巫师星云": "The Wizard Nebula"
+    },
+    "NGC7385": {
+        "NGC 7385 星系群": "NGC 7385 group"
+    },
+    "NGC7424": {
+        "大设计星系": "Grand Design Galaxy"
+    },
+    "NGC7479": {
+        "超人星系": "Superman Galaxy"
+    },
+    "NGC7510": {
+        "睡鼠星团": "The Dormouse Cluster",
+        "箭矢星团": "The Arrowhead Cluster"
+    },
+    "NGC7538": {
+        "北礁湖星云": "Northern Lagoon Nebula",
+        "脑星云": "Brain Nebula"
+    },
+    "NGC7552": {
+        "天鹤座四重星系": "Grus Quartet"
+    },
+    "NGC7582": {
+        "天鹤座三重星系": "Grus Triplet",
+        "天鹤座四重星系": "Grus Quartet"
+    },
+    "NGC7590": {
+        "天鹤座三重星系": "Grus Triplet",
+        "天鹤座四重星系": "Grus Quartet"
+    },
+    "NGC7599": {
+        "天鹤座三重星系": "Grus Triplet",
+        "天鹤座四重星系": "Grus Quartet"
+    },
+    "NGC7635": {
+        "气泡星云": "Bubble Nebula"
+    },
+    "NGC7654": {
+        "仙后座椒盐星团": "Cassiopeia Salt-and-Pepper Cluster",
+        "十月椒盐星团": "October Salt-and-Pepper Cluster",
+        "蝎状星团": "The Scorpion Cluster"
+    },
+    "NGC7662": {
+        "科普兰的蓝雪球": "Copeland's Blue Snowball",
+        "科普兰蓝雪球": "Copeland's Blue Snowball",
+        "蓝雪球星云": "Blue Snowball"
+    },
+    "NGC772": {
+        "蕨菜星系": "Fiddlehead Galaxy"
+    },
+    "NGC7742": {
+        "荷包蛋星系": "Fried-egg Galaxy"
+    },
+    "NGC7789": {
+        "卡洛琳玫瑰星团": "Caroline's Rose Cluster",
+        "尖叫头骨星团": "Screaming Skull Cluster",
+        "星雾星团": "Star Mist Cluster",
+        "蟹星团": "Crab Cluster",
+        "赫歇尔的螺旋星团": "Herschel's Spiral Cluster",
+        "赫歇尔螺旋星团": "Herschel's Spiral Cluster",
+        "鬼魂星团": "Ghost Cluster"
+    },
+    "NGC7790": {
+        "寡妇的网星团": "The Widow's Web Cluster",
+        "寡妇网星团": "The Widow's Web Cluster"
+    },
+    "NGC7793": {
+        "邦德星系": "Bond's Galaxy"
+    },
+    "NGC7814": {
+        "小墨西哥帽星系": "The Little Sombrero Galaxy",
+        "电弧星系": "Electric Arc Galaxy"
+    },
+    "NGC869": {
+        "双星团": "Double Cluster",
+        "英仙座h": "h Persei"
+    },
+    "NGC87": {
+        "罗伯特四重星系": "Robert's Quartet"
+    },
+    "NGC88": {
+        "罗伯特四重星系": "Robert's Quartet"
+    },
+    "NGC884": {
+        "双星团": "Double Cluster",
+        "英仙座χ": "χ Persei"
+    },
+    "NGC89": {
+        "罗伯特四重星系": "Robert's Quartet"
+    },
+    "NGC92": {
+        "罗伯特四重星系": "Robert's Quartet"
+    },
+    "NGC936": {
+        "达斯·维德星际战舰": "Darth Vader's Starfighter",
+        "达斯·维德的星际战舰": "Darth Vader's Starfighter"
+    },
+    "NGc2269": {
+        "星际战士星团": "Starfighter Cluster",
+        "猎头星团": "Head Hunter Cluster"
+    },
+    "OH231.8+4.2": {
+        "臭蛋星云": "Rotten Egg Nebula",
+        "葫芦星云": "Calabash Nebula"
+    },
+    "PGC100169": {
+        "仙后座1星系": "Cassiopeia 1"
+    },
+    "PGC100170": {
+        "仙后座2星系": "Cassiopeia 2",
+        "德文格洛1": "Dwingeloo I"
+    },
+    "PGC10074": {
+        "天炉座星系": "Fornax System",
+        "天炉座矮星系": "Fornax Dwarf Galaxy"
+    },
+    "PGC10217": {
+        "马费伊 II": "Maffei II",
+        "马费伊2": "Maffei 2"
+    },
+    "PGC119230": {
+        "辣椒星系": "Speca Galaxy"
+    },
+    "PGC120": {
+        "太妃糖星系": "Taffy Galaxies",
+        "太妃糖系统": "Taffy System"
+    },
+    "PGC12737": {
+        "霍姆伯格VI": "Holmberg VI"
+    },
+    "PGC129": {
+        "太妃糖星系": "Taffy Galaxies",
+        "太妃糖系统": "Taffy System"
+    },
+    "PGC139235": {
+        "六分仪座环": "Sextans Ring",
+        "六分仪座环状星系": "Ring Galaxy in Sextans"
+    },
+    "PGC14098": {
+        "E1星团": "E1 Cluster"
+    },
+    "PGC14212": {
+        "舒斯特螺旋星系": "Schuster's Spiral Galaxy"
+    },
+    "PGC14225": {
+        "时钟座矮星系": "Horologium Dwarf Galaxy"
+    },
+    "PGC143": {
+        "沃尔夫-隆达马克-梅洛帝星系 (WLM)": "Wolf-Lundmark-Melotte Object (WLM)"
+    },
+    "PGC15172": {
+        "雕具座星云": "Carafe Nebula"
+    },
+    "PGC166082": {
+        "鹿豹座A": "Camelopardalis A"
+    },
+    "PGC166084": {
+        "鹿豹座B": "Camelopardalis B"
+    },
+    "PGC17223": {
+        "LMC": "LMC",
+        "大麦云": "Nubecula Major",
+        "大麦哲伦云": "Large Magellanic Cloud"
+    },
+    "PGC17716": {
+        "猎户座矮星系": "Orion Dwarf Galaxy"
+    },
+    "PGC19441": {
+        "船底座矮星系": "Carina Dwarf Galaxy"
+    },
+    "PGC19481": {
+        "南椭圆星系": "Southern Ellipse",
+        "林赛-夏普利戒指": "Lindsay-Shapley Ring",
+        "格雷厄姆A": "Graham A"
+    },
+    "PGC20125": {
+        "南船座矮不规则星系": "Argo Dwarf Irregular Galaxy"
+    },
+    "PGC20348": {
+        "积分号星系": "Integral Sign Galaxy"
+    },
+    "PGC2121": {
+        "仙女座III矮星系": "Andromeda III Dwarf Galaxy"
+    },
+    "PGC2248": {
+        "兹威基椭圆": "Zwicky's Ellipse",
+        "兹威基的椭圆": "Zwicky's Ellipse",
+        "车轮星系": "Cartwheel Galaxy",
+        "车轮环星系": "Cartwheel Ring Galaxy"
+    },
+    "PGC22641": {
+        "凤凰座星系": "Phoenix Galaxy"
+    },
+    "PGC23324": {
+        "霍姆伯格II": "Holmberg II"
+    },
+    "PGC2345": {
+        "感叹号星系": "Exclamation Mark Galaxy"
+    },
+    "PGC23521": {
+        "M81 A矮星系": "M81 Dwarf A"
+    },
+    "PGC26071": {
+        "霍姆伯格III": "Holmberg III"
+    },
+    "PGC26132": {
+        "蝗虫A": "Grasshopper A"
+    },
+    "PGC26269": {
+        "长蛇座A": "Hydra A"
+    },
+    "PGC2666": {
+        "仙女座I矮星系": "Andromeda I Dwarf Galaxy"
+    },
+    "PGC27605": {
+        "霍姆伯格I": "Holmberg I"
+    },
+    "PGC2796": {
+        "伯比奇链": "Burbidge Chain"
+    },
+    "PGC2807155": {
+        "仙后座矮椭球星系": "Cassiopeia Dwarf Spheroidal Galaxy",
+        "仙女座VII": "Andromeda VII"
+    },
+    "PGC2807158": {
+        "仙女座VI": "Andromeda VI",
+        "飞马座II": "Pegasus II",
+        "飞马座矮星系": "Pegasus Dwarf Galaxy"
+    },
+    "PGC28757": {
+        "霍姆伯格IX": "Holmberg IX"
+    },
+    "PGC28759": {
+        "Arp环": "Arp Loop"
+    },
+    "PGC28913": {
+        "六分仪座B": "Sextans B"
+    },
+    "PGC2906": {
+        "巴德A星系": "Baade's Galaxy A"
+    },
+    "PGC2907": {
+        "巴德B星系": "Baade's Galaxy B"
+    },
+    "PGC29152": {
+        "左轮手枪星系": "Revolver Galaxy"
+    },
+    "PGC29167": {
+        "花环星系": "The Garland Galaxy"
+    },
+    "PGC29194": {
+        "唧筒座矮星系": "Antlia Dwarf Galaxy"
+    },
+    "PGC29284": {
+        "M81 B矮星系": "M81 Dwarf B"
+    },
+    "PGC29529": {
+        "船帆座环星系": "Vela Ring Galaxy"
+    },
+    "PGC29653": {
+        "六分仪座A": "Sextans A"
+    },
+    "PGC3074547": {
+        "半人马座双极星云": "Centaurus Bipolar Nebula",
+        "旋镖星云": "Boomerang Nebula"
+    },
+    "PGC3097690": {
+        "仙王座I": "Cepheus I"
+    },
+    "PGC3097691": {
+        "鲸鱼座矮星系": "Cetus Dwarf Galaxy"
+    },
+    "PGC31141": {
+        "哈罗II": "Haro II"
+    },
+    "PGC31923": {
+        "蜘蛛星系": "Spider Galaxy"
+    },
+    "PGC32907": {
+        "蚂蚁星系": "Ant Galaxy"
+    },
+    "PGC33423": {
+        "马亚尔天体": "Mayall's Object"
+    },
+    "PGC34176": {
+        "哈灵顿-威尔逊#2": "Harrington-Wilson #2",
+        "狮子座B": "Leo B",
+        "狮子座II矮星系": "Leo II Dwarf Galaxy"
+    },
+    "PGC34658": {
+        "埃尔普星系": "Arp's Galaxy"
+    },
+    "PGC34696": {
+        "飞鸟星系": "A Flying Bird"
+    },
+    "PGC3589": {
+        "玉夫座矮星系": "Sculptor Dwarf Galaxy",
+        "玉夫座系统": "Sculptor System",
+        "网状系统": "Reticulum System"
+    },
+    "PGC36723": {
+        "狂野三重星系": "Wild's Triplet"
+    },
+    "PGC36733": {
+        "狂野三重星系": "Wild's Triplet"
+    },
+    "PGC36742": {
+        "狂野三重星系": "Wild's Triplet"
+    },
+    "PGC3792": {
+        "双鱼座I": "Pisces I",
+        "双鱼座矮星系": "Pisces Dwarf Galaxy"
+    },
+    "PGC3853": {
+        "夏普利-艾姆斯 1": "Shapley-Ames 1"
+    },
+    "PGC40012": {
+        "虹吸管": "Syphon"
+    },
+    "PGC41578": {
+        "雷睦斯80": "Reinmuth 80"
+    },
+    "PGC41861": {
+        "霍姆伯格VII": "Holmberg VII"
+    },
+    "PGC42102": {
+        "马琳1": "Malin 1"
+    },
+    "PGC42911": {
+        "半人马座星系链": "Centaurus Chain"
+    },
+    "PGC43345": {
+        "夏普利-艾姆斯3": "Shapley-Ames 3"
+    },
+    "PGC44014": {
+        "夏普利-艾姆斯4": "Shapley-Ames 4"
+    },
+    "PGC44491": {
+        "脚印星系": "Imprint of a Foot Galaxy"
+    },
+    "PGC45901": {
+        "哈德卡斯特星系": "Hardcastle's Galaxy"
+    },
+    "PGC45927": {
+        "霍姆伯格VIII": "Holmberg VIII"
+    },
+    "PGC4601": {
+        "仙女座 II": "Andromeda II",
+        "仙女座II矮星系": "Andromeda II Dwarf Galaxy"
+    },
+    "PGC47847": {
+        "佛洛卡德-菲格罗亚天体": "Fourcade-Figueroa Object",
+        "佛洛卡德-菲格罗亚星系": "Fourcade-Figueroa Galaxy"
+    },
+    "PGC48392": {
+        "霍姆伯格V": "Holmberg V"
+    },
+    "PGC49448": {
+        "霍姆伯格IV": "Holmberg IV"
+    },
+    "PGC49560": {
+        "牙医椅子": "The Dentist's Chair",
+        "牙医的椅子": "The Dentist's Chair"
+    },
+    "PGC50779": {
+        "圆规座星系": "Circinus Galaxy"
+    },
+    "PGC52283": {
+        "塞格纳轮盘星系": "Segner's Wheel"
+    },
+    "PGC54074": {
+        "小熊座矮星系": "Ursa Minor Dwarf Galaxy"
+    },
+    "PGC54559": {
+        "霍格天体": "Hoag's Object"
+    },
+    "PGC54817": {
+        "钩状星系": "Hooked Galaxy"
+    },
+    "PGC58985": {
+        "凯瑟琳之轮": "Kathryn's Wheel"
+    },
+    "PGC59061": {
+        "兹维基三重星系": "Zwicky's Triplet"
+    },
+    "PGC59085": {
+        "兹维基三重星系": "Zwicky's Triplet"
+    },
+    "PGC59102": {
+        "兹维基三重星系": "Zwicky's Triplet"
+    },
+    "PGC59117": {
+        "武仙座A": "Hercules A"
+    },
+    "PGC60095": {
+        "天龙座矮星系": "Draco Dwarf Galaxy"
+    },
+    "PGC621": {
+        "玉夫座矮不规则星系": "Sculptor Dwarf Irregular Galaxy"
+    },
+    "PGC6240": {
+        "白玫瑰星系": "White Rose Galaxy"
+    },
+    "PGC62946": {
+        "鸟星系": "The Bird"
+    },
+    "PGC63287": {
+        "人马座矮不规则星系": "Sagittarius Dwarf Galaxy",
+        "科瓦尔天体": "Kowal's Object"
+    },
+    "PGC63932": {
+        "天鹅座A": "Cygnus A"
+    },
+    "PGC64180": {
+        "麦克莱什天体": "McLeish's Object"
+    },
+    "PGC65367": {
+        "宝瓶座矮星系": "Aquarius Dwarf Galaxy"
+    },
+    "PGC66669": {
+        "夏普利-艾姆斯6": "Shapley-Ames 6"
+    },
+    "PGC6830": {
+        "凤凰座矮星系": "Phoenix Dwarf Galaxy",
+        "舒斯特-韦斯特星团": "Schuster-West Cluster"
+    },
+    "PGC69457": {
+        "赫钦拉透镜星系": "Huchra's Lens"
+    },
+    "PGC69519": {
+        "杜鹃座矮星系": "Tucana Dwarf Galaxy"
+    },
+    "PGC71538": {
+        "飞马座矮星系": "Pegasus Dwarf Galaxy"
+    },
+    "PGC71938": {
+        "巴尔伯恩星系": "Barbon's Galaxy"
+    },
+    "PGC73957": {
+        "闵可夫斯基天体": "Minkowski's Object"
+    },
+    "PGC84913": {
+        "超级触角星系": "Superantennae Galaxy"
+    },
+    "PGC86622": {
+        "马林II": "Malin II"
+    },
+    "PGC88608": {
+        "六分仪座矮椭球星系": "Sextans Dwarf Spheroidal Galaxy"
+    },
+    "PGC90170": {
+        "帕多瓦 3": "Padova 3"
+    },
+    "PGC95597": {
+        "迈尔因16": "Mailyan 16"
+    },
+    "PGC9892": {
+        "马费伊 I": "Maffei I",
+        "马费伊1": "Maffei 1"
+    },
+    "PK010+18.2": {
+        "双喷流星云": "Twin Jet Nebula",
+        "闵可夫斯基的蝴蝶": "Minkowski's Butterfly",
+        "闵可夫斯基蝴蝶": "Minkowski's Butterfly"
+    },
+    "PK064+05.1": {
+        "坎贝尔氢星": "Campbell's Hydrogen Star"
+    },
+    "PK080-10.1": {
+        "玛土撒拉星云": "Methuselah Nebula"
+    },
+    "PK086-08.1": {
+        "婴儿哑铃星云": "Baby Dumbbell Nebula"
+    },
+    "PK164+31.1": {
+        "琼斯-爱默生1": "Jones-Emberson 1",
+        "耳罩星云": "Headphone Nebula"
+    },
+    "PK166-06.1": {
+        "威斯布鲁克星云": "Westbrook Nebula"
+    },
+    "PK283+25.1": {
+        "南夜枭星云": "Southern Owl Nebula"
+    },
+    "PK315+09.1": {
+        "南蟹状星云": "Southern Crab Nebula"
+    },
+    "PK329+02.1": {
+        "细指环星云": "Fine Ring Nebula"
+    },
+    "PK331-01.1": {
+        "恐怖之屋": "The Chamber of Horrors",
+        "蚂蚁星云": "Ant Nebula"
+    },
+    "PK331-12.1": {
+        "刺魟星云": "Stingray Nebula"
+    },
+    "PK340-03.1": {
+        "睡莲花星云": "Water Lily Nebula"
+    },
+    "PNG010.4+04.4": {
+        "樱井之星": "Sakurai's Object"
+    },
+    "PNG054.2-03.4": {
+        "项链星云": "Necklace Nebula"
+    },
+    "PNG353.8+02.9": {
+        "棉花糖星云": "Cotton Candy Nebula"
+    },
+    "RCW114": {
+        "龙心星云": "Dragon's Heart Nebula"
+    },
+    "RCW77": {
+        "沙漏星云": "Engraved Hourglass Nebula",
+        "蚀刻沙漏星云": "Etched Hourglass Nebula"
+    },
+    "SH2101": {
+        "天鹅座恒星云": "Cygnus Star Cloud",
+        "郁金香星云": "Tulip Nebula"
+    },
+    "SH2103": {
+        "天鹅圈": "Cygnus Loop",
+        "面纱星云": "Veil Nebula"
+    },
+    "SH2106": {
+        "雪天使星云": "Celestial Snow Angel"
+    },
+    "SH2108": {
+        "天津一区": "Sadr Region"
+    },
+    "SH2114": {
+        "飞龙星云": "Flying Dragon Nebula"
+    },
+    "SH2129": {
+        "飞蝙蝠星云": "Flying Bat Nebula"
+    },
+    "SH2132": {
+        "狮子星云": "Lion Nebula"
+    },
+    "SH2155": {
+        "洞穴星云": "Cave Nebula"
+    },
+    "SH2157": {
+        "加利福尼托星云": "Californietto Nebula",
+        "龙虾钳星云": "Lobster Claw Nebula"
+    },
+    "SH2158": {
+        "德雷尔天体": "Dreyer's Object"
+    },
+    "SH2188": {
+        "海豚星云": "Dolphin Nebula"
+    },
+    "SH2199": {
+        "灵魂星云": "Soul Nebula"
+    },
+    "SH2216": {
+        "次近行星状星云": "Second Closest Planetary"
+    },
+    "SH2240": {
+        "西梅兹147": "Simeis 147",
+        "面条星云": "Spaghetti Nebula"
+    },
+    "SH2261": {
+        "拉沃尔星云": "Lower's Nebula"
+    },
+    "SH2264": {
+        "刺鲽鱼星云": "Angelfish Nebula",
+        "北猎户泡": "North Orion Bubble",
+        "猎户座头部星云": "Orion's Head Nebula",
+        "觜宿一分子环": "λ Ori Molecular Ring"
+    },
+    "SH2274": {
+        "美杜莎星云": "Medusa Nebula"
+    },
+    "SH2275": {
+        "玫瑰星云": "Rosette Nebula"
+    },
+    "SH2276": {
+        "巴纳德弧": "Barnard's Arc",
+        "巴纳德环": "Barnard's Loop"
+    },
+    "SH2292": {
+        "海鸥星云": "Seagull Nebula"
+    },
+    "SH2296": {
+        "海鸥的翅膀": "Seagull's wings",
+        "海鸥翅膀": "Seagull's wings"
+    },
+    "SH23": {
+        "绿环星云": "Green Ring Nebula"
+    },
+    "SH2302": {
+        "雪人星云": "Snowman Nebula"
+    },
+    "SH28": {
+        "熊掌星云": "Bear Claw Nebula"
+    },
+    "SH282": {
+        "小茧星云": "Little Cocoon Nebula"
+    },
+    "SNRG039.7-02.0": {
+        "海牛星云": "Manatee Nebula"
+    },
+    "SNRG111.7-02.1": {
+        "仙后座A": "Cassiopeia A"
+    },
+    "SNRG120.2+01.4": {
+        "第谷超新星残骸": "Tycho's supernova remnant"
+    },
+    "SNRG260.4-03.4": {
+        "船尾座A": "Puppis A"
+    },
+    "SNRG266.2-01.2": {
+        "船帆座幼体": "Vela Junior"
+    },
+    "UGC10214": {
+        "蝌蚪星系": "Tadpole Galaxy"
+    },
+    "UGC11668": {
+        "天鹅蛋星云": "Cygnus Egg",
+        "蛋星云": "Egg Nebula"
+    },
+    "UGC12613": {
+        "飞马座矮不规则星系": "Pegasus Dwarf Irregular Galaxy"
+    },
+    "UGC3087": {
+        "金牛座BW": "BW Tauri"
+    },
+    "UGC4881": {
+        "蝗虫星系": "The Grasshopper Galaxy"
+    },
+    "UGC5364": {
+        "狮子座A": "Leo A",
+        "狮子座III": "Leo III",
+        "狮子座矮不规则星系": "Leo Dwarf Irregular Galaxy"
+    },
+    "UGC5439": {
+        "六分仪座C": "Sextans C"
+    },
+    "UGC5470": {
+        "哈灵顿-威尔逊#1": "Harrington-Wilson #1",
+        "狮子座I": "Leo I",
+        "轩辕十四矮星系": "Regulus Dwarf Galaxy"
+    },
+    "UGC6132": {
+        "马卡良421": "Markarian 421"
+    },
+    "UGC6955": {
+        "兹维基#2": "Zwicky #2"
+    },
+    "UGC8058": {
+        "马卡良231": "Markarian 231"
+    },
+    "UGC9618": {
+        "惊叹号星系": "Exclamation Point Galaxy"
+    },
+    "UGC9792": {
+        "巨蛇座矮星系": "Serpens Dwarf Galaxy"
+    },
+    "VDB107": {
+        "心宿二反射星云": "Antares Nebula"
+    },
+    "VDB141": {
+        "鬼魂星云": "Ghost Nebula"
+    },
+    "VDB149": {
+        "黑鲨星云": "Dark Shark Nebula"
+    },
+    "VDB150": {
+        "黑鲨星云": "Dark Shark Nebula"
+    },
+    "VV786": {
+        "柠檬星系": "Lemon Galaxy"
+    }
+}

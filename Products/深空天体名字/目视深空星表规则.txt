@@ -1,0 +1,110 @@
+星团
+星云
+星系
+
+目视level
+一位数：total 10 （实事求是大目标 不排序）
+两位数：total 90 （补充足够南天 排序分类）
+三位数：total 900 （知名所有；几乎看不到的放在最后）
+四位数：total 9000 （大阶）
+
+编号：(silas = sl)
+SL 5 （默认不用I）
+SL 103 (II)
+SL 103 (III)
+
+
+摄影level
+两位数：total 100 （补充南天）
+三位数：total 1000 （知名所有）
+四位数：total 10000 （大阶）
+
+SP (silas photo)
+---------------
+目的：为了自己的观察
+
+
+SL
+1 M45 OC
+2 C41 OC
+3 M42 NEB
+4 C80 GC
+5 M31 G
+6 M44 OC
+7 C14 OC
+8 NGC6273 OC
+9 LMC G
+10 Coalsack DN
+
+#OC
+IC 2602 #C102
+IC 2391 #o vel
+NGC 6231 #
+NGC 2451 #错误标记亮度
+NGC 3532 #C91
+M7 
+NGC 2516 
+NGC 2232 
+NGC 2264 #圣诞树
+
+
+
+
+#GC
+NGC 104 #47 Tuc GC
+M22 
+NGC 6752 
+M4 
+M5 
+NGC 6397 
+M13 # Great Cluster 
+NGC 2808 
+M3 
+M15 
+NGC 6541 
+M55 
+NGC 362 #c104
+M92 
+M62 
+M2 
+M10 
+M12 
+
+
+
+#GAL
+SMC
+M33
+M81
+# NGC 3184 
+NGC 5128 
+NGC 253
+M83 
+M101 
+#PGC 19441
+NGC 55 
+M110 
+M94 
+M106 
+M104
+NGC 2403 
+M82 
+M49 
+M51
+# NGC 1291 
+M64
+M87 
+M63
+#PGC 03589 
+M77 
+M60 
+
+
+
+#NEB
+
+
+#PLN
+
+
+

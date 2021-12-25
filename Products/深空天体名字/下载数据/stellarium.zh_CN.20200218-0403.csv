@@ -1,0 +1,882 @@
+source (en),translation (zh_CN)
+Sun,太阳
+Mercury,水星
+Venus,金星
+Earth,地球
+Mars,火星
+Jupiter,木星
+Saturn,土星
+Uranus,天王星
+Neptune,海王星
+Moon,月球
+Deimos,火卫二
+Phobos,火卫一
+Io,木卫一
+Europa,木卫二
+Ganymede,木卫三
+Callisto,木卫四
+Amalthea,木卫五
+Himalia,木卫六
+Elara,木卫七
+Pasiphae,木卫八
+Sinope,木卫九
+Lysithea,木卫十
+Carme,木卫十一
+Ananke,木卫十二
+Leda,木卫十三
+Thebe,木卫十四
+Adrastea,木卫十五
+Metis,木卫十六
+Mimas,土卫一
+Enceladus,土卫二
+Tethys,土卫三
+Dione,土卫四
+Rhea,土卫五
+Titan,土卫六
+Hyperion,土卫七
+Iapetus,土卫八
+Phoebe,土卫九
+Janus,土卫十
+Epimetheus,土卫十一
+Helene,土卫十二
+Telesto,土卫十三
+Calypso,土卫十四
+Atlas,土卫十五
+Prometheus,土卫十六
+Pandora,土卫十七
+Pan,土卫十八
+Ariel,天卫一
+Umbriel,天卫二
+Titania,天卫三
+Oberon,天卫四
+Miranda,天卫五
+Cordelia,天卫六
+Ophelia,天卫七
+Bianca,天卫八
+Cressida,天卫九
+Desdemona,天卫十
+Juliet,天卫十一
+Puck,天卫十五
+Triton,海卫一
+Nereid,海卫二
+Naiad,海卫三
+Thalassa,海卫四
+Despina,海卫五
+Galatea,海卫六
+Larissa,海卫七
+Proteus,海卫八
+Halimede,海卫九
+Psamathe,海卫十
+Sao,海卫十一
+Laomedeia,海卫十二
+Neso,海卫十三
+Charon,冥卫一
+Nix,冥卫二
+Hydra,冥卫三
+Kerberos,冥卫四
+Styx,冥卫五
+Solar System Observer,太阳系全览点
+Earth Observer,地球全览点
+Mars Observer,火星全览点
+Jupiter Observer,木星全览点
+Saturn Observer,土星全览点
+Uranus Observer,天王星全览点
+Neptune Observer,海王星全览点
+SpaceShip,宇宙飞船
+Ceres,谷神星
+Pallas,智神星
+Juno,婚神星
+Vesta,灶神星
+Metis,颖神星
+Europa,欧女星
+Pandora,祸神星
+Galatea,巫女星
+Dione,坤神星
+Ophelia,欧菲丽亚星
+Bianca,歌女星
+Titania,提泰妮娅星
+Desdemona,黛斯迪蒙娜星
+Larissa,拉丽莎星
+Prometheus,普罗米修斯星
+Epimetheus,厄庇墨透斯星
+Cordelia,科迪莉亚星
+Pan,潘星
+Varuna,伐楼那星
+Huya,雨神星
+Quaoar,创神星
+Sedna,赛德娜星
+Orcus,亡神星
+Salacia,潫神星
+Pluto,冥王星
+Haumea,妊神星
+Eris,阋神星
+Makemake,鸟神星
+Varda,熹神星
+Astraea,义神星
+Hebe,韶神星
+Iris,虹神星
+Flora,花神星
+Hygiea,健神星
+Parthenope,海妖星
+Egeria,芙女星
+Eunomia,司法星
+Psyche,灵神星
+Melpomene,司曲星
+Fortuna,命神星
+Massalia,王后星
+Lutetia,司琴星
+Amphitrite,海后星
+Euphrosyne,丽神星
+Daphne,桂神星
+Eugenia,香女星
+Doris,昏神星
+Cybele,原神星
+Sylvia,林神星
+Thisbe,尽女星
+Antiope,休神星
+Undina,波女星
+Aurora,彩神星
+Camilla,驶神星
+Nausikaa,瑙女星
+Kleopatra,艳后星
+Ida,艾女星
+Mathilde,玛蒂尔德星
+Thule,图勒星
+Glauke,渌神星
+Brucia,布鲁西亚星
+Bamberga,斑贝格星
+Ursula,厄苏拉星
+Diotima,狄奥提玛星
+Eros,爱神星
+Patientia,忍神星
+Veritas,威耳塔斯星
+Davida,黛维达星
+Herculina,大力神星
+Achilles,艾基利斯
+Hektor,赫克托星
+Interamnia,英特拉美尼亚星
+Albert,艾伯特星
+Lipperta,里佩尔塔星
+Ara,阿拉星
+Maritima,玛丽蒂玛星
+Hidalgo,伊达尔戈星
+Gaspra,加斯普拉星
+Ganymed,甘尼梅德星
+China,中华星
+Amor,阿莫尔星
+Schorria,斯古瑞亚星
+Cincinnati,辛辛那提星
+Icarus,伊卡洛斯星
+Betulia,拜突利亚星
+Geographos,地理星
+Toro,托罗星
+Antinous,安提诺乌斯星
+Daedalus,代达罗斯星
+Cerberus, 塞伯拉斯星
+Sisyphus,西绪福斯星
+Shaposhnikov,沙波什尼科夫星
+Midas,迈达斯星
+Chiron,喀戎星
+Aten, 阿登星
+Bacchus,酒神星
+Ra-Shalom,拉-舍拉姆星
+Adonis,阿多尼斯星
+Tantalus,坦塔罗斯星
+Aristaeus,阿里斯泰俄斯星
+Oljato,奥加托星
+Hephaistos,赫菲斯托斯星
+Orthos,奥尔索斯星
+Hathor,哈索尔星
+Tolkien,托尔金星
+Steins,斯坦斯星
+Hopi,霍皮星
+Eger,伊格尔星
+Phaethon,法厄同星
+Syrinx,绪任克斯星
+Orpheus,俄耳甫斯星
+Khufu,胡夫星
+Amun,阿蒙星
+Dionysus,庆神星
+Camillo,卡米罗星
+Cruithne,克鲁特尼星
+Epona,伊波那星
+Wilson-Harrington,威尔逊-哈灵顿星
+Vishnu,毗瑟挐星
+Toutatis,图塔蒂斯星
+Cuno,库诺星
+Morpheus,梦神星
+Ubasti,乌巴斯蒂星
+Poseidon,海神星
+Mithra,密特拉星
+Barklajdetolli,巴卡拉加托里星
+Xanthus,克珊托斯星
+Asclepius,医神星
+Nereus,涅柔斯星
+Castalia,加斯塔利亚星
+Ptah,普塔星
+Heracles,赫拉克勒斯星
+Eureka,尤里卡星
+Sekhmet,狮女星
+Annefrank,安妮·弗兰克星
+Zeus,宙斯星
+Talos,塔罗斯星
+Jason,詹森星
+Minos,米诺斯星
+Cadmus,卡德摩斯星
+Kwiila,奎拉星
+Braille,布莱尔星
+Izhdubar,伊祖杜巴星
+Sigurd,齐格鲁德星
+Peleus,珀琉斯星
+Tomaiyowit,托麦约威特星
+Summanus,苏玛努斯星
+Tukmit,图克米特星
+Zephyr,泽菲尔星
+Hypnos,睡神星
+Ahau,阿华星
+Itokawa,糸川星
+Illapa,伊拉帕星
+Beowulf,贝奥武夫星
+Didymos,狄律摩斯星
+Hermes,赫耳墨斯星
+Mjolnir,姆吉尼尔星
+Apophis,毀神星
+Selqet,蝎女星
+Tjelvar,炬神星
+Ryugu,龙宫星
+Atira,阿迪娜星
+Nut,穹神星
+Akhenaten,阿肯那顿星
+Duende,恶魔星
+Otrera,奥特瑞拉星
+Great Comet of 1680 (C/1680 V1),1680年大彗星(C/1680 V1)
+Tycho's Supernova,第谷超新星
+Kepler's Supernova,开普勒超新星
+Cassiopeia A,仙后座A
+S Andromedae,仙女座S
+Nova,新星
+Crab Pulsar,蟹云脉冲星
+Geminga Pulsar,杰敏卡脉冲星
+Monogem Pulsar,摩诺根脉冲星
+Vela Pulsar,船帆脉冲星
+Lich,巫妖 Lich
+Calvera,卡尔维拉X射线源
+Cir Pulsar,圆规脉冲星
+Tasmanian Devil Nebula,塔斯马尼亚魔鬼星云
+Hulse-Taylor Pulsar,赫尔斯-泰勒脉冲星
+Black Widow,毒蜘蛛脉冲星
+Dragonfly Nebula,蜻蜓星云
+Guitar Nebula,吉他星云
+LGM-1,LGM-1脉冲星
+Veritate,螣蛇增九 Veritate
+Spe,希望 Spe
+Musica,司非增二 Musica
+Arion,阿里翁 Arion
+Fafnir,扶筐增二 Fafnir
+Orbitar,轨道 Orbitar
+Chalawan,天牢三 Chalawan
+Taphao Thong,鳄鱼王姊 Taphao Thong
+Taphao Kaew,鳄鱼王妹 Taphao Kaew
+Helvetios,室宿增一 Helvetios
+Dimidium,半 Dimidium
+Copernicus,轩辕增十九 Copernicus
+Galileo,伽利略 Galileo
+Brahe,第谷·布拉赫 Brahe
+Lipperhey,李普希 Lipperhey
+Janssen,詹森 Janssen
+Harriot,哈里奧特 Harriot
+Amateru,阿玛特鲁 Amateru
+Hypatia,希帕提娅 Hypatia
+Ran,天苑四 Ran
+AEgir,埃吉尔 AEgir
+Tadmor,塔德穆尔 Tadmor
+Dagon,大衮 Dagon
+Tonatiuh,托纳季乌 Ogma
+Meztli,麦西莉 Meztli
+Ogma,奥马 Ogma
+Smertrios,史墨西奧 Smertrios
+Intercrus,上台增七 Intercrus
+Arkas,阿卡斯 Arkas
+Cervantes,塞万提斯 Cervantes
+Quijote,堂吉诃德 Quijote
+Dulcinea,杜尔西内娅 Dulcinea
+Rocinante,驽骍难得 Rocinante
+Sancho,桑丘 Sancho
+Thestias,忒斯提娅斯 Thestias
+Draugr,尸鬼 Draugr
+Poltergeist,喧闹鬼 Poltergeist
+Phobetor,福柏托尔 Phobetor
+Titawin,天大将军六
+Saffar,萨法尔 Saffar
+Samh,萨姆 Samh
+Majriti,马吉里蒂 Majriti
+Libertas,河鼓增八 Libertas
+Fortitudo,坚韧 Fortitudo
+Teegarden's,蒂加登 Teegarden's
+Teegarden's Star,蒂加登星 Teegarden's Star
+Illyrian,伊利里亚人 Illyrian
+Arber,阿尔伯 Arber
+Hoggar,霍加尔 Hoggar
+Tassili,塔西利 Tassili
+Arcalís,阿卡利斯 Arcalís
+Madriu,马德留 Madriu
+Nosaxa,春天 Nosaxa
+Naqaỹa,纳卡亚 Naqaỹa
+Malmok,马尔摩 Malmok
+Bocaprins,博卡普林斯 Bocaprins
+Bubup,Bubup
+Yanyan,Yanyan
+Franz,弗朗兹 Franz
+Sissi,茜茜 Sissi
+Mahsati,Mahsati
+Ganja,甘贾 Ganja
+Timir,Timir
+Tondra,Tondra
+Nervia,Nervia
+Eburonia,Eburonia
+Gakyid,Gakyid
+Drukyul,Drukyul
+Tapecue,Tapecue
+Yvaga,Yvaga
+Bosona,Bosona
+Naron,Naron
+Tupi,Tupi
+Guarani,Guarani
+Gumala,Gumala
+Mastika,Mastika
+Tangra,Tangra
+Bendida,Bendida
+Mouhoun,Mouhoun
+Nakanbé,Nakanbé
+Nikawiy,Nikawiy
+Awasis,Awasis
+Pincoya,Pincoya
+Caleuche,Caleuche
+Lionrock,狮子山 Lionrock
+Victoriapeak,太平山 Victoriapeak
+Xihe,羲和 Xihe
+Wangshu,望舒 Wangshu
+Formosa,福尔摩沙 Formosa
+Sazum,水沙连 Sazum
+Macondo,Macondo
+Melquíades,Melquíades
+Poerava,Poerava
+Pipitea,Pipitea
+Dìwö,Dìwö
+Ditsö̀,Ditsö̀
+Stribor,Stribor
+Veles,Veles
+Felixvarela,Felixvarela
+Finlay,Finlay
+Alasia,Alasia
+Onasilos,Onasilos
+Absolutno,Absolutno
+Makropulos,Makropulos
+Muspelheim,Muspelheim
+Surt,Surt
+Márohu,Márohu
+Boinayel,Boinayel
+Nenque,Nenque
+Eyeke,Eyeke
+Citalá,Citalá
+Cayahuanca,Cayahuanca
+Koit,Koit
+Hämarik,Hämarik
+Buna,Buna
+Abol,Abol
+Horna,Horna
+Hiisi,Hiisi
+Bélénos,Bélénos
+Bélisama,Bélisama
+Itonda,Itonda
+Mintome,Mintome
+Mago,Mago
+Neri,Neri
+Sika,Sika
+Toge,Toge
+Lerna,Lerna
+Iolaus,Iolaus
+Tojil,Tojil
+Koyopa',Koyopa'
+Citadelle,Citadelle
+Indépendance,Indépendance
+Hunahpú,Hunahpú
+Ixbalanqué,Ixbalanqué
+Hunor,Hunor
+Magor,Magor
+Funi,Funi
+Fold,Fold
+Bibhā,Bibhā
+Santamasa,Santamasa
+Dofida,Dofida
+Noifasui,Noifasui
+Kaveh,Kaveh
+Kavian,Kavian
+Uruk,Uruk
+Babylonia,Babylonia
+Tuiren,Tuiren
+Bran,Bran
+Tevel,Tevel
+Alef,Alef
+Flegetonte,Flegetonte
+Lete,Lete
+Nyamien,Nyamien
+Asye,Asye
+Kamui,Kamui
+Chura,Chura
+Petra,Petra
+Wadirum,Wadirum
+Kalausi,Kalausi
+Buru,Buru
+Liesma,Liesma
+Staburags,Staburags
+Phoenicia,Phoenicia
+Beirut,Beirut
+Pipoltr,Pipoltr
+Umbäässa,Umbäässa
+Taika,Taika
+Vytis,Vytis
+Lucilinburhuc,Lucilinburhuc
+Peitruss,Peitruss
+Rapeto,Rapeto
+Trimobe,Trimobe
+Intan,Intan
+Baiduri,Baiduri
+Sansuna,Sansuna
+Ġgantija,Ġgantija
+Diya,Diya
+Cuptor,Cuptor
+Axólotl,Axólotl
+Xólotl,Xólotl
+Tislit,Tislit
+Isli,Isli
+Emiw,Emiw
+Hairu,Hairu
+Ayeyarwady,Ayeyarwady
+Bagan,Bagan
+Sagarmatha,Sagarmatha
+Laligurans,Laligurans
+Sterrennacht,Sterrennacht
+Nachtwacht,Nachtwacht
+Karaka,Karaka
+Kererū,Kererū
+Cocibolca,Cocibolca
+Xolotlan,Xolotlan
+Amadioha,Amadioha
+Equiano,Equiano
+Násti,Násti
+Albmi,Albmi
+Shama,Shama
+Perwana,Perwana
+Moriah,Moriah
+Jebus,Jebus
+Montuno,Montuno
+Pollera,Pollera
+Tupã,Tupã
+Tumearandu,Tumearandu
+Inquill,Inquill
+Sumajmajta,Sumajmajta
+Amansinaya,Amansinaya
+Haik,Haik
+Uklun,Uklun
+Leklsullun,Leklsullun
+Solaris,Solaris
+Pirx,Pirx
+Lusitânia,Lusitânia
+Viriato,Viriato
+Koeia,Koeia
+Aumatex,Aumatex
+Moldoveanu,Moldoveanu
+Negoiu,Negoiu
+Dombay,Dombay
+Teberda,Teberda
+Belel,Belel
+Dopere,Dopere
+Morava,Morava
+Vlasina,Vlasina
+Parumleo,Parumleo
+Viculus,Viculus
+Chasoň,Chasoň
+Kráľomoc,Kráľomoc
+Irena,Irena
+Iztok,Iztok
+Naledi,Naledi
+Krotoa,Krotoa
+Baekdu,白头 Baekdu
+Halla,汉拿 Halla
+Rosalíadecastro,Rosalíadecastro
+Riosar,Riosar
+Sāmaya,Sāmaya
+Samagiya,Samagiya
+Aniara,Aniara
+Isagel,Isagel
+Mönch,Mönch
+Eiger,Eiger
+Ebla,Ebla
+Ugarit,Ugarit
+Mpingo,Mpingo
+Tanzanite,Tanzanite
+Chaophraya,Chaophraya
+Maeping,Maeping
+Atakoraka,Atakoraka
+Agouto,Agouto
+Dingolay,Dingolay
+Ramajay,Ramajay
+Chechia,Chechia
+Khomsa,Khomsa
+Anadolu,Anadolu
+Göktürk,Göktürk
+Berehinya,Berehinya
+Tryzub,Tryzub
+Sharjah,Sharjah
+Barajeel,Barajeel
+Gloas,Gloas
+Cruinlagh,Cruinlagh
+Nushagak,Nushagak
+Mulchatna,Mulchatna
+Ceibo,Ceibo
+Ibirapitá,Ibirapitá
+Natasha,Natasha
+Madalitso,Madalitso
+Andromedae,仙女座
+Antliae,唧筒座
+Apodis,天燕座
+Aquarii,宝瓶座
+Aquilae,天鹰座
+Arae,天坛座
+Arietis,白羊座
+Aurigae,御夫座
+Bootis,武仙座
+Caeli,雕具座
+Camelopardalis,鹿豹座
+Cancri,巨蟹座
+Canum Venaticorum,猎犬座
+Canis Majoris,大犬座
+Canis Minoris,小犬座
+Capricorni,摩羯座
+Carinae,船底座
+Cassiopeiae,仙后座
+Centauri,半人马座
+Cephei,仙王座
+Ceti,鲸鱼座
+Chamaeleontis,蝘蜓座
+Circini,圆规座
+Columbae,天鸽座
+Comae Berenices,天鸽座
+Coronae Australis,南冕座
+Coronae Borealis,北冕座
+Corvi,乌鸦座
+Crateris,巨爵座
+Crucis,南十字座
+Cygni,天鹅座
+Delphini,海豚座
+Doradus,剑鱼座
+Draconis,天龙座
+Equulei,小马座
+Eridani,波江座
+Fornacis,天炉座
+Geminorum,双子座
+Gruis,天鹤座
+Herculis,武仙座
+Horologii,时钟座
+Hydrae,长蛇座
+Hydri,水蛇座
+Indi,印第安座
+Lacertae,蝎虎座
+Leonis,狮子座
+Leonis Minoris,小狮座
+Leporis,天兔座
+Librae,天秤座
+Lupi,豺狼座
+Lyncis,天猫座
+Lyrae,天琴座
+Mensae,山案座
+Microscopii,显微镜座
+Monocerotis,麒麟座
+Muscae,苍蝇座
+Normae,矩尺座
+Octantis,南极座
+Ophiuchi,蛇夫座
+Orionis,猎户座
+Pavonis,孔雀座
+Pegasi,飞马座
+Persei,英仙座
+Phoenicis,凤凰座
+Pictoris,绘架座
+Piscium,双鱼座
+Piscis Austrini,南鱼座
+Puppis,船尾座
+Pyxidis,罗盘座
+Reticuli,网罟座
+Sagittae,天箭座
+Sagittarii,人马座
+Scorpii,天蝎座
+Sculptoris,玉夫座
+Scuti,盾牌座
+Serpentis,巨蛇座
+Sextantis,六分仪座
+Tauri,金牛座
+Telescopii,望远镜座
+Trianguli,三角座
+Trianguli Australis,南三角座
+Tucanae,杜鹃座
+Ursae Majoris,大熊座
+Ursae Minoris,小熊座
+Velorum,船帆座
+Virginis,室女座
+Volantis,飞鱼座
+Vulpeculae,狐狸座
+Bow-Tie Nebula,蝴蝶结星云
+Scarab Nebula,披风星云
+String of Pearls,珍珠串星系
+Robert's Quartet,罗伯特四重星系
+47 Tuc,杜鹃座47球状星团
+NGC 128 group,NGC 128星系群
+Giant Squid Galaxy,大王乌贼星系
+Polarissima Cluster,近极星团
+Great Star Cloud in Andromeda Galaxy,仙女座星系中的大恒星云
+Andromeda Galaxy,仙女座星系
+Andromeda Nebula,仙女座星云
+Great Nebula in Andromeda,仙女座大星云
+Sailboat Cluster,帆船星团
+Broken Heart Cluster,碎心星团
+Skull Nebula,头骨星云
+Soap Bubble Nebula,肥皂泡星云
+Voodoo Mask Nebula,巫毒面具星云
+Burbidge Chain,伯比奇链
+Sculptor Galaxy,玉夫座星系
+Silver Coin Galaxy,银币星系
+Silver Dollar Galaxy,银元星系
+Pacman Nebula,吃豆人星云
+Pac-Man Nebula,食鬼星云
+Lafitte's Grand Isle,拉菲特大钢琴星云
+Southern Pinwheel Galaxy,南风车星系
+Pisces Cloud,双鱼座云
+NGC 383 group,NGC 383星系群
+Markarian 348,马卡良348
+Small Magellanic Cloud,小麦哲伦云
+SMC,SMC
+Nubecula Minor,小麦云
+Mirach's Ghost,奎宿九之魂
+Lost Pearl Galaxy,遗珠星系
+NGC 507 group,NGC 507星系群
+Dragonfly Cluster,蜻蜓星团
+Owl Cluster,猫头鹰星团
+E.T. Cluster,外星人星团
+Whirligig Galaxy,转马星系
+Little Spindle Galaxy,小主轴星系
+Triangulum Galaxy,三角座星系
+Triangulum Pinwheel,三角座风车
+Pinwheel Galaxy,风车星系
+Triangulum Nebula,三角座大星云
+Phantom Galaxy,幻影星系
+Little Dumbbell Nebula,小哑铃星云
+Cork Nebula,软木塞星云
+Barbell Nebula,杠铃星云
+Butterfly Nebula,蝴蝶星云
+Fuzzy Butterfly Cluster,迷蝶星团
+Yin-Yang Cluster,阴阳星团
+Lawnmower Cluster,割草机星团
+Letter S Cluster,字母S星团
+Fiddlehead Galaxy,蕨菜星系
+Double Cluster,双星团
+h Persei,英仙座h
+χ Persei,英仙座χ
+Darth Vader's Starfighter,达斯·维德的星际战舰
+Perseus Lenticular Galaxy,仙人掌星系
+Spiral Cluster,螺旋星团
+Fornax Dwarf Cluster 3,天炉座矮星系球状星团3
+Fornax H3,天炉座H3
+Fornax C3,天炉座C3
+Fornax 3,天炉座3
+Fornax Dwarf,天炉座矮星系
+Cetus A,鲸鱼座A
+Eye of God Galaxy,上帝之眼星系
+Patrick Starfish Cluster,帕特里克海星星团
+Snow Collar Galaxy,雪领星系
+Perseus A,英仙座A
+Fornax A,天炉座A
+Fornax B,天炉座B
+Embryo Nebula,胚胎星云
+Phantom Tiara,幻影头饰星云
+Little Scorpion Cluster,小蝎星团
+Stingray Cluster,黄貂鱼星团
+Sea Robin Cluster,棘角鱼星团
+The Colossal Cosmic Eye,宇宙大眼睛星系
+Robin's Egg Nebula,知更鸟蛋星云
+Comet Planetary Nebula,彗星行星状星云
+Great Barred Spiral Galaxy,大棒旋星系
+Eridanus A Group,波江座A星系群
+Maia Nebula,昴宿四星云
+Merope Nebula,昴宿五星云
+Tempel's Nebula,坦普尔星云
+Fossil Footprint Nebula,化石足迹星云
+California Nebula,加利福尼亚星云
+Dragon Nebula,龙星云
+Camel's Eye Nebula,骆驼之眼星云
+Oyster Nebula,牡蛎星云
+Blue Oyster Nebula,蓝牡蛎星云
+Jolly Roger Cluster,海盗旗星团
+Golden Harp Cluster,金竖琴星团
+Crystal Ball Nebula,水晶球星云
+Pansy Nebula,三色堇星云
+m & m Double Cluster,M&M双星团
+Cleopatra's Eye Nebula,埃及艳后之眼星云
+Eskimo's Wife Nebula,爱斯基摩之妻星云
+Celestial Jellyfish,天水母星云
+Ghost of Neptune Nebula,海王星之魂星云
+Running Man Cluster,奔跑人星团
+Magic Pentagram Cluster,魔术五角星团
+Struve's Lost Nebula,斯特鲁维遗失星云
+Struve's Nebula,斯特鲁维星云
+Hind's Variable Nebula,欣德变光星云
+Hind's Nebula,欣德星云
+Northern Trifid Nebula,北三裂星云
+Carafe Group,雕具座星系群
+Pirate Moon Cluster,海盗之月星团
+4-H cluster,4-H 星团
+Cosmic Bat Nebula,宇宙蝙蝠星云
+Foxface Nebula,狐狸脸星云
+Poor Man's Double Cluster,贫双星团
+Letter Y Cluster,字母Y星团
+S Dor Cluster,剑鱼座S星团
+Starfish Cluster,海星星团
+Letter Pi Cluster,字母π星团
+The Fly Nebula,苍蝇星云
+Crab Nebula,蟹状星云
+Taurus A,金牛座A
+Pinwheel Cluster,风车星团
+Mermaid's Purse Nebula,美人鱼的钱包星云
+Running Man Nebula,跑步者星云
+Great Orion Nebula,猎户座大星云
+Orion Nebula,猎户座星云
+Orion A,猎户座A
+Mermaid's Purse,美人鱼的钱包
+The Lost Jewel of Orion,猎户座遗失宝石
+Lower Sword,猎户座下半剑
+Coal Car Cluster,煤车星团
+Upper Sword,猎户座上半剑
+de Mairan's Nebula,迪马伦星云
+Mairan's Nebula,梅朗星云
+ε Ori Nebula,参宿二星云
+13th Pearl Nebula,第13珍珠星云
+Rubber Stamp Nebula,橡皮戳星云
+Black Eye Nebula,黑眼星云
+Kissing Crescents Nebula,吻月星云
+Orion's Collarbone Nebula,猎户的锁骨星云
+Flame Nebula,火焰星云
+Tank Tracks Nebula,坦克履带星云
+Maple Leaf Nebula,枫叶星云
+Lips Nebula,唇星云
+Burning Bush Nebula,火树星云
+The Ghost of Alnitak,参宿一之魂
+30 Dor B,剑鱼座30 B
+Casper the Friendly Ghost Nebula,鬼马小精灵星云 
+Tarantula Nebula,狼蛛星云
+Great Looped Nebula,大环星云
+True Lovers' Knot,同心结星云
+30 Dor Cluster,剑鱼座30星团
+30 Dor Nebula,剑鱼座30星云
+Ghost Head Nebula,鬼头星云
+January Salt-and-Pepper Cluster,一月椒盐星团
+Auriga Salt and Pepper Cluster,御夫座椒盐星团
+Dusty Hand Galaxy,脏手星系
+Shoe-Buckle Cluster,鞋扣星团
+The 37 Cluster,37星团
+The 'LE' Cluster,LE星团
+Shopping Cart Cluster,购物车星团
+Little Pleiades,小七姐妹星团
+Mon R2 IRS3,麒麟座R2 IRS3
+Monkey Head Nebula,猴头星云
+Intergalactic Wanderer,漫游者星团
+Double Wedge Cluster,双锥状星团
+Rosette Nebula,玫瑰星云
+Rosette A,玫瑰A
+NGC 2244 Satellite Cluster,NGC 2244的卫星星团
+Harp Cluster,竖琴星团
+Rosette B,玫瑰B
+Hubble's Variable Nebula,哈勃变光星云
+Hubble's Nebula,哈勃星云
+Christmas Tree Cluster,圣诞树星团
+Cone Nebula,圆锥星云
+Fox Fur Nebula,狐皮星云
+Head Hunter Cluster,猎头星团
+Starfighter Cluster,星际战士星团
+Little Beehive Cluster,小蜂巢星团
+Hagrid's Dragon Cluster,海格的龙星团
+Great Bird Cluster,大鸟星团
+Copeland's Golden Worm,科普兰的金蠕虫
+Heart-Shaped Cluster,心状星团
+Coil Cluster,线圈星团
+Doublemint Cluster,箭头星团
+Hourglass Planetary Nebula,沙漏行星状星云
+Crimson Butterfly Nebula,红蝴蝶星云
+Avery's Island,艾弗里岛星团
+Thor's Helmet,雷神的头盔
+Duck Head Nebula,鸭头星云
+Flying Eye Nebula,飞眼星云
+Duck Nebula,鸭星云
+Caroline's Cluster,卡罗琳星团
+τ CMa Cluster,弧矢增六星团
+Mexican Jumping Star,墨西哥跳跃星
+Pirate's Jewels Cluster,海盗宝石星团
+Charlie Brown's Christmas Tree,查理·布朗的圣诞树
+Gemini Nebula,双子座星云
+Ant Nebula,蚂蚁星云
+Double Bubble Nebula,双泡星云
+Peanut Nebula,花生星云
+Eskimo Nebula,爱斯基摩星云
+Clown Face Nebula,丑脸星云
+Firsse 213,菲尔瑟213
+Intergalactic Tramp,星际漫游者
+Twinkling Comet Cluster,彗闪星团
+Bold Arrow Cluster,宽箭头星团
+Albino Butterfly Nebula,白蝴蝶星云
+Burning Ember Nebula,烈火星云
+Bat Nebula,蝙蝠星云
+Kiss Nebula,吻星云
+Little Lips Nebula,樱唇星云
+Meathook Galaxy,肉钩星系
+Butterfly Cluster,蝴蝶星团
+Stinging Scorpion Cluster,刺蝎星团
+Skull and Crossbones Nebula,骷髅头星云
+Chained Brooch Nebula,链式胸针星云
+Electric Guitar Cluster,电吉他星团
+Termite Hole Cluster,白蚁洞星团
+Sprinter Cluster,短跑人星团
+Diamond Cluster,钻石星团
+Southern Beehive,南蜂巢星团
+Bear's Paw Galaxy,熊掌星系
+Bear Claw Nebula,熊掌星云
+The Dish Cluster,盘状星团
+Heart and Dagger Cluster,心与匕首星团
+Wounded Heart Cluster,伤心星团
+Golden Earring Cluster,金耳环星团
+St. Peter's Cross Cluster,圣彼得十字星团
+Malus Cluster,马吕斯星系团
+Polarissima Australis,南极星系
+Beehive Cluster,蜂巢星团
+Praesepe,鬼星团
+Manger,马槽星团
+Golden-Eye Cluster,金眼星团
+Pac-Man Cluster,吃豆人星团
+King Cobra Cluster,眼镜王蛇星团
+UFO Galaxy,UFO星系
+Helix Galaxy,螺旋星系
+Pancake Galaxy,煎饼星系
+Spindle Galaxy,纺锤星系
+Pencil Nebula,铅笔星云
+Herschel's Ray Nebula,赫歇尔的线条星云
+NGC 2769 Group,NGC 2769星系群
+Supernova Factory,超新星工厂星系
+Tiger's Eye Galaxy,虎眼星系
+The Penguin Galaxy,企鹅星系
+The Porpoise Galaxy,海豚星系
+The Egg Galaxy,蛋星系
+Bode's Galaxy,波德星系
+Bode's Nebula,波德星云
+The Great Spiral,大漩涡星系
+Cigar Galaxy,雪茄星系
+Ursa Major A,大熊座A
+The Garland Galaxy,花环星系
+The Phantom Frisbee Galaxy,幻影飞碟星系
